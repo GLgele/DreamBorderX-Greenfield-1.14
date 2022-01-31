@@ -1,0 +1,981 @@
+[31一月2022 12:23:24.372] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, GLgele, --version, HMCL 3.3.188, --gameDir, D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft, --assetsDir, D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\assets, --assetIndex, 1.14, --uuid, 84e8de8ef6d94371835b6844cb7ff0e9, --accessToken, ????????, --userType, mojang, --versionType, HMCL 3.3.188, --width, 854, --height, 480, --tweakClass, optifine.OptiFineTweaker, --launchTarget, fmlclient, --fml.forgeVersion, 28.2.1, --fml.mcVersion, 1.14.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20190829.143755]
+[31一月2022 12:23:24.385] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 4.1.0+62+5bfa59b starting: java version 1.8.0_311 by Oracle Corporation
+[31一月2022 12:23:24.450] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [minecraft,testharness,fmlclient,fmlserver]
+[31一月2022 12:23:24.497] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : []
+[31一月2022 12:23:24.620] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [eventbus,object_holder_definalize,runtime_enum_extender,accesstransformer,capability_inject_definalize,runtimedistcleaner]
+[31一月2022 12:23:24.710] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
+[31一月2022 12:23:24.751] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: [D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\optifine\OptiFine\1.14.4_HD_U_G5\OptiFine-1.14.4_HD_U_G5.jar]
+[31一月2022 12:23:24.921] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [OptiFine,fml]
+[31一月2022 12:23:24.922] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
+[31一月2022 12:23:24.933] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service OptiFine
+[31一月2022 12:23:24.933] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[31一月2022 12:23:24.955] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\optifine\OptiFine\1.14.4_HD_U_G5\OptiFine-1.14.4_HD_U_G5.jar
+[31一月2022 12:23:24.988] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is not available
+[31一月2022 12:23:25.158] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service OptiFine
+[31一月2022 12:23:25.158] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
+[31一月2022 12:23:25.159] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/]: Injecting tracing printstreams for STDOUT/STDERR.
+[31一月2022 12:23:25.168] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 28.2
+[31一月2022 12:23:25.168] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 28.2 loading
+[31一月2022 12:23:25.172] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 4.1.0+62+5bfa59b
+[31一月2022 12:23:25.173] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Initializing modjar URL handler
+[31一月2022 12:23:25.179] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 1.0.1-milestone.0.1+94458e7+46+94458e7
+[31一月2022 12:23:25.182] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 1.0.0+54+3f83a9e
+[31一月2022 12:23:25.192] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
+[31一月2022 12:23:25.402] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 1.0.0+4+e6fed88
+[31一月2022 12:23:25.404] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 1.5.0+6+478760f
+[31一月2022 12:23:25.405] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 3
+[31一月2022 12:23:26.466] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[31一月2022 12:23:26.467] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
+[31一月2022 12:23:26.485] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
+[31一月2022 12:23:26.518] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
+[31一月2022 12:23:26.519] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service OptiFine
+[31一月2022 12:23:26.519] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[31一月2022 12:23:26.521] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service OptiFine
+[31一月2022 12:23:26.521] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
+[31一月2022 12:23:26.521] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
+[31一月2022 12:23:26.523] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing GAMEDIR directory : D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft
+[31一月2022 12:23:26.523] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft
+[31一月2022 12:23:26.524] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Making MODSDIR directory : D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\mods
+[31一月2022 12:23:26.525] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Created MODSDIR directory : D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\mods
+[31一月2022 12:23:26.526] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\mods
+[31一月2022 12:23:26.528] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Making CONFIGDIR directory : D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config
+[31一月2022 12:23:26.530] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Created CONFIGDIR directory : D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config
+[31一月2022 12:23:26.531] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config
+[31一月2022 12:23:26.532] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\fml.toml
+[31一月2022 12:23:26.532] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
+[31一月2022 12:23:26.714] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\fml.toml is not correct. Correcting
+[31一月2022 12:23:26.737] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[31一月2022 12:23:26.750] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Making default config directory directory : D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\defaultconfigs
+[31一月2022 12:23:26.751] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Created default config directory directory : D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\defaultconfigs
+[31一月2022 12:23:26.751] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing launch handler
+[31一月2022 12:23:26.752] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Using fmlclient as launch service
+[31一月2022 12:23:26.794] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Received command line version data  : MC Version: '1.14.4' MCP Version: '20190829.143755' Forge Version: '28.2.1' Forge group: 'net.minecraftforge'
+[31一月2022 12:23:26.797] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Found JAR asm at path D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\org\ow2\asm\asm\6.2\asm-6.2.jar
+[31一月2022 12:23:26.797] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Found probable library path D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries
+[31一月2022 12:23:26.804] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Found forge path D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-universal.jar is present
+[31一月2022 12:23:26.804] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: SRG MC at D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraft\client\1.14.4-20190829.143755\client-1.14.4-20190829.143755-srg.jar is present
+[31一月2022 12:23:26.804] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: MC Extras at D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraft\client\1.14.4\client-1.14.4-extra-stable.jar is present
+[31一月2022 12:23:26.805] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Forge patches at D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-client.jar is present
+[31一月2022 12:23:26.816] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 0 language providers
+[31一月2022 12:23:26.817] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Adding forge as a language from D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-universal.jar
+[31一月2022 12:23:26.839] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Adding file:/D:/Users/Administrator/Documents/GitHub/DreamBorderX-Greedfield-1.14/.minecraft/libraries/net/minecraftforge/forge/1.14.4-28.2.1/forge-1.14.4-28.2.1-universal.jar to languageloader classloader
+[31一月2022 12:23:26.956] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 2 language providers
+[31一月2022 12:23:26.957] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider javafml, version 28.2
+[31一月2022 12:23:26.963] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider minecraft, version 1
+[31一月2022 12:23:26.971] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service fml
+[31一月2022 12:23:26.971] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Current naming domain is 'srg'
+[31一月2022 12:23:26.972] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Identified name mapping providers {}
+[31一月2022 12:23:26.973] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services begin scanning
+[31一月2022 12:23:26.973] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service OptiFine
+[31一月2022 12:23:26.973] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service OptiFine
+[31一月2022 12:23:26.973] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service fml
+[31一月2022 12:23:26.974] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Initiating mod scan
+[31一月2022 12:23:27.145] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModListHandler/CORE]: Found mod coordinates from lists: []
+[31一月2022 12:23:27.242] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Mod Locators : (mods folder:null),(maven libs:null),(exploded directory:null),(minecraft:null)
+[31一月2022 12:23:27.321] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-universal.jar
+[31一月2022 12:23:27.942] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file forge-1.14.4-28.2.1-universal.jar with {forge} mods - versions {28.2.1}
+[31一月2022 12:23:27.942] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-universal.jar with language javafml
+[31一月2022 12:23:28.055] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod fieldtomethodtransformers with Javascript path META-INF/fieldtomethodtransformers.js
+[31一月2022 12:23:28.056] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/fieldtomethodtransformers.js
+[31一月2022 12:23:28.056] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-client.jar
+[31一月2022 12:23:28.071] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file forge-1.14.4-28.2.1-client.jar with {minecraft} mods - versions {1.14.4}
+[31一月2022 12:23:28.071] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-client.jar with language minecraft
+[31一月2022 12:23:28.109] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Found 0 mandatory requirements
+[31一月2022 12:23:28.114] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Found 0 mandatory mod requirements missing
+[31一月2022 12:23:29.953] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service fml
+[31一月2022 12:23:29.953] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading transformers
+[31一月2022 12:23:29.954] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformers for transformation service OptiFine
+[31一月2022 12:23:29.955] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[31一月2022 12:23:30.010] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 246
+[31一月2022 12:23:30.019] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/ModelRotation;} {} {V}
+[31一月2022 12:23:30.022] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/profiler/DebugProfiler$1;} {} {V}
+[31一月2022 12:23:30.023] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$DepthState;} {} {V}
+[31一月2022 12:23:30.023] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$TexGenState;} {} {V}
+[31一月2022 12:23:30.023] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$ColorMaterialState;} {} {V}
+[31一月2022 12:23:30.023] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$Profile$3;} {} {V}
+[31一月2022 12:23:30.024] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/multiplayer/ClientChunkProvider;} {} {V}
+[31一月2022 12:23:30.024] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/FaceBakery$3;} {} {V}
+[31一月2022 12:23:30.024] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$PolygonOffsetState;} {} {V}
+[31一月2022 12:23:30.024] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/ResourceLoadProgressGui;} {} {V}
+[31一月2022 12:23:30.024] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/ItemRenderer;} {} {V}
+[31一月2022 12:23:30.024] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/world/chunk/ChunkSection;} {} {V}
+[31一月2022 12:23:30.025] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$1;} {} {V}
+[31一月2022 12:23:30.025] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/Stitcher$Slot;} {} {V}
+[31一月2022 12:23:30.025] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/layers/EndermanEyesLayer;} {} {V}
+[31一月2022 12:23:30.025] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/TextureManager;} {} {V}
+[31一月2022 12:23:30.025] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/PngSizeInfo$ReaderSeekable;} {} {V}
+[31一月2022 12:23:30.026] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/FluidBlockRenderer;} {} {V}
+[31一月2022 12:23:30.026] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/LayeredColorMaskTexture;} {} {V}
+[31一月2022 12:23:30.026] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/screen/CustomizeSkinScreen;} {} {V}
+[31一月2022 12:23:30.027] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/IEntityRenderer;} {} {V}
+[31一月2022 12:23:30.027] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/fonts/providers/TextureGlyphProvider$GlyphInfo;} {} {V}
+[31一月2022 12:23:30.027] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/WorldRenderer$1;} {} {V}
+[31一月2022 12:23:30.027] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$Viewport;} {} {V}
+[31一月2022 12:23:30.027] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/ModelBakery$ModelListWrapper;} {} {V}
+[31一月2022 12:23:30.027] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/FaceBakery$1;} {} {V}
+[31一月2022 12:23:30.032] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/NativeImage$WriteCallback;} {} {V}
+[31一月2022 12:23:30.032] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/network/PacketBuffer;} {} {V}
+[31一月2022 12:23:30.033] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/fonts/Font;} {} {V}
+[31一月2022 12:23:30.033] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/overlay/DebugOverlayGui;} {} {V}
+[31一月2022 12:23:30.033] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/culling/ClippingHelper;} {} {V}
+[31一月2022 12:23:30.033] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/NativeImage$PixelFormatGLCode;} {} {V}
+[31一月2022 12:23:30.033] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/chunk/VisGraph$1;} {} {V}
+[31一月2022 12:23:30.033] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/FaceBakery$2;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/GameRenderer;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockModelRenderer$AmbientOcclusionFace;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/resources/ResourcePack;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/world/biome/BiomeColors$IColorResolver;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/layers/ParrotVariantLayer;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/chunk/ChunkRender;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/WorldVertexBufferUploader;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/IngameGui;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/FirstPersonRenderer;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/widget/OptionSlider;} {} {V}
+[31一月2022 12:23:30.034] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GLX;} {} {V}
+[31一月2022 12:23:30.035] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/world/ClientWorld;} {} {V}
+[31一月2022 12:23:30.035] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$StencilFunc;} {} {V}
+[31一月2022 12:23:30.035] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/PngSizeInfo$1;} {} {V}
+[31一月2022 12:23:30.035] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Util$OS$1;} {} {V}
+[31一月2022 12:23:30.035] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/EntityRendererManager;} {} {V}
+[31一月2022 12:23:30.035] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/NativeImage;} {} {V}
+[31一月2022 12:23:30.035] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;} {} {V}
+[31一月2022 12:23:30.036] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/multiplayer/ClientChunkProvider$ChunkArray;} {} {V}
+[31一月2022 12:23:30.036] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/fonts/providers/TextureGlyphProvider;} {} {V}
+[31一月2022 12:23:30.036] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/GameSettings$1;} {} {V}
+[31一月2022 12:23:30.036] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/screen/WorkingScreen;} {} {V}
+[31一月2022 12:23:30.036] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Direction$Axis$3;} {} {V}
+[31一月2022 12:23:30.036] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/tileentity/TileEntityRenderer;} {} {V}
+[31一月2022 12:23:30.036] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/Matrix4f;} {} {V}
+[31一月2022 12:23:30.036] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/network/play/server/SChunkDataPacket;} {} {V}
+[31一月2022 12:23:30.036] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/block/BlockState$Cache;} {} {V}
+[31一月2022 12:23:30.037] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockModelRenderer$Cache$2;} {} {V}
+[31一月2022 12:23:30.037] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/profiler/DebugProfiler$IDebugResultEntry;} {} {V}
+[31一月2022 12:23:30.037] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/ScreenShotHelper;} {} {V}
+[31一月2022 12:23:30.037] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$Profile$1;} {} {V}
+[31一月2022 12:23:30.037] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/MissingTextureSprite;} {} {V}
+[31一月2022 12:23:30.037] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Util$OS;} {} {V}
+[31一月2022 12:23:30.037] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/tileentity/EndPortalTileEntityRenderer;} {} {V}
+[31一月2022 12:23:30.037] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockModelRenderer$Cache$1;} {} {V}
+[31一月2022 12:23:30.038] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/layers/MooshroomMushroomLayer;} {} {V}
+[31一月2022 12:23:30.038] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/math/MathHelper;} {} {V}
+[31一月2022 12:23:30.048] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/KeyboardListener;} {} {V}
+[31一月2022 12:23:30.048] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Direction$AxisDirection;} {} {V}
+[31一月2022 12:23:30.049] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/model/RendererModel;} {} {V}
+[31一月2022 12:23:30.049] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/AtlasTexture$SheetData;} {} {V}
+[31一月2022 12:23:30.049] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GLX$FboMode;} {} {V}
+[31一月2022 12:23:30.050] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Direction$Axis$1;} {} {V}
+[31一月2022 12:23:30.050] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$CullFace;} {} {V}
+[31一月2022 12:23:30.050] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BufferBuilder;} {} {V}
+[31一月2022 12:23:30.050] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$TexGenCoord;} {} {V}
+[31一月2022 12:23:30.051] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/chunk/CompiledChunk$1;} {} {V}
+[31一月2022 12:23:30.051] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$StencilState;} {} {V}
+[31一月2022 12:23:30.052] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$FogState;} {} {V}
+[31一月2022 12:23:30.052] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$TextureState;} {} {V}
+[31一月2022 12:23:30.053] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/resources/I18n;} {} {V}
+[31一月2022 12:23:30.053] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/entity/MobEntity$1;} {} {V}
+[31一月2022 12:23:30.054] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/particle/Particle;} {} {V}
+[31一月2022 12:23:30.054] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockModelRenderer$Cache;} {} {V}
+[31一月2022 12:23:30.055] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/world/biome/BiomeColors;} {} {V}
+[31一月2022 12:23:30.056] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/concurrent/ThreadTaskExecutor;} {} {V}
+[31一月2022 12:23:30.056] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/PngSizeInfo$ReaderBuffer;} {} {V}
+[31一月2022 12:23:30.056] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/RenderList;} {} {V}
+[31一月2022 12:23:30.056] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$ClearState;} {} {V}
+[31一月2022 12:23:30.056] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/math/ChunkPos;} {} {V}
+[31一月2022 12:23:30.057] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockRendererDispatcher;} {} {V}
+[31一月2022 12:23:30.057] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/model/PlayerModel;} {} {V}
+[31一月2022 12:23:30.057] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$TexGen;} {} {V}
+[31一月2022 12:23:30.057] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/chunk/VisGraph;} {} {V}
+[31一月2022 12:23:30.057] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/DynamicTexture;} {} {V}
+[31一月2022 12:23:30.057] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/culling/Frustum;} {} {V}
+[31一月2022 12:23:30.057] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/ModelBakery;} {} {V}
+[31一月2022 12:23:30.057] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/ModelBox;} {} {V}
+[31一月2022 12:23:30.057] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$Color;} {} {V}
+[31一月2022 12:23:30.058] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockModelRenderer$1;} {} {V}
+[31一月2022 12:23:30.058] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/server/integrated/IntegratedServer;} {} {V}
+[31一月2022 12:23:30.058] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/multiplayer/ClientChunkProvider$1;} {} {V}
+[31一月2022 12:23:30.058] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/TexturedQuad;} {} {V}
+[31一月2022 12:23:30.058] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/EntityRenderer;} {} {V}
+[31一月2022 12:23:30.058] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/ResourceLocation;} {} {V}
+[31一月2022 12:23:30.058] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/layers/SpiderEyesLayer;} {} {V}
+[31一月2022 12:23:30.058] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/KeyboardListener$1;} {} {V}
+[31一月2022 12:23:30.060] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/network/PacketThreadUtil;} {} {V}
+[31一月2022 12:23:30.062] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Util$IdentityStrategy;} {} {V}
+[31一月2022 12:23:30.063] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/block/BlockState$1;} {} {V}
+[31一月2022 12:23:30.064] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/ItemRenderer;} {} {V}
+[31一月2022 12:23:30.067] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/ItemOverrideList;} {} {V}
+[31一月2022 12:23:30.067] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/network/datasync/EntityDataManager;} {} {V}
+[31一月2022 12:23:30.067] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/layers/EnderDragonEyesLayer;} {} {V}
+[31一月2022 12:23:30.067] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GLX$1;} {} {V}
+[31一月2022 12:23:30.068] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/entity/player/AbstractClientPlayerEntity;} {} {V}
+[31一月2022 12:23:30.068] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Util$OS$2;} {} {V}
+[31一月2022 12:23:30.068] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/block/BlockState;} {} {V}
+[31一月2022 12:23:30.068] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/FaceBakery$4;} {} {V}
+[31一月2022 12:23:30.068] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$DestFactor;} {} {V}
+[31一月2022 12:23:30.068] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BufferBuilder$State;} {} {V}
+[31一月2022 12:23:30.068] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/fonts/providers/TextureGlyphProvider$Factory;} {} {V}
+[31一月2022 12:23:30.068] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/PngSizeInfo$Reader;} {} {V}
+[31一月2022 12:23:30.068] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$FogMode;} {} {V}
+[31一月2022 12:23:30.075] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/LivingRenderer$1;} {} {V}
+[31一月2022 12:23:30.075] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/Texture;} {} {V}
+[31一月2022 12:23:30.075] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/ViewFrustum;} {} {V}
+[31一月2022 12:23:30.075] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$SourceFactor;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/particle/ParticleManager$AnimatedSpriteImpl;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/potion/PotionUtils;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/FontRenderer$Entry;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/screen/ChatOptionsScreen;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/NativeImage$PixelFormat;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/FontRenderer;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/settings/SliderPercentageOption;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/overlay/DebugOverlayGui$1;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/Tessellator;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$CullState;} {} {V}
+[31一月2022 12:23:30.076] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/FontRenderer$1;} {} {V}
+[31一月2022 12:23:30.077] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/Stitcher$Holder;} {} {V}
+[31一月2022 12:23:30.077] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/entity/MobEntity;} {} {V}
+[31一月2022 12:23:30.103] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/SimpleTexture;} {} {V}
+[31一月2022 12:23:30.103] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Util;} {} {V}
+[31一月2022 12:23:30.103] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$ColorLogicState;} {} {V}
+[31一月2022 12:23:30.103] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/layers/WolfCollarLayer;} {} {V}
+[31一月2022 12:23:30.104] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Util$1;} {} {V}
+[31一月2022 12:23:30.104] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/GlDebugTextUtils;} {} {V}
+[31一月2022 12:23:30.104] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/WorldVertexBufferUploader$1;} {} {V}
+[31一月2022 12:23:30.105] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/tileentity/BeaconTileEntityRenderer;} {} {V}
+[31一月2022 12:23:30.105] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/profiler/FilledProfileResult;} {} {V}
+[31一月2022 12:23:30.105] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/ResourceLocation$Serializer;} {} {V}
+[31一月2022 12:23:30.106] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/VertexBufferUploader;} {} {V}
+[31一月2022 12:23:30.106] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/Monitor;} {} {V}
+[31一月2022 12:23:30.106] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/chunk/ChunkRenderDispatcher$PendingUpload;} {} {V}
+[31一月2022 12:23:30.106] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/settings/IteratableOption;} {} {V}
+[31一月2022 12:23:30.106] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockModelRenderer;} {} {V}
+[31一月2022 12:23:30.106] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/WorldRenderer$LocalRenderInformationContainer;} {} {V}
+[31一月2022 12:23:30.106] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$BooleanState;} {} {V}
+[31一月2022 12:23:30.106] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/IBakedModel;} {} {V}
+[31一月2022 12:23:30.106] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/crash/CrashReport;} {} {V}
+[31一月2022 12:23:30.107] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$ColorMask;} {} {V}
+[31一月2022 12:23:30.107] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/PngSizeInfo;} {} {V}
+[31一月2022 12:23:30.107] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/resources/VanillaPack;} {} {V}
+[31一月2022 12:23:30.107] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/GameSettings$2;} {} {V}
+[31一月2022 12:23:30.107] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockModelRenderer$VertexTranslations;} {} {V}
+[31一月2022 12:23:30.108] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BufferBuilder$1;} {} {V}
+[31一月2022 12:23:30.108] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/BakedQuad;} {} {V}
+[31一月2022 12:23:30.108] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/layers/ArmorLayer;} {} {V}
+[31一月2022 12:23:30.108] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/VboRenderList;} {} {V}
+[31一月2022 12:23:30.108] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/DownloadingTexture;} {} {V}
+[31一月2022 12:23:30.108] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/debug/ChunkBorderDebugRenderer;} {} {V}
+[31一月2022 12:23:30.109] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/layers/ElytraLayer;} {} {V}
+[31一月2022 12:23:30.109] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$Profile;} {} {V}
+[31一月2022 12:23:30.109] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/network/datasync/EntityDataManager$DataEntry;} {} {V}
+[31一月2022 12:23:30.109] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockRendererDispatcher$1;} {} {V}
+[31一月2022 12:23:30.109] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/BakedQuadRetextured;} {} {V}
+[31一月2022 12:23:30.109] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/widget/button/OptionButton;} {} {V}
+[31一月2022 12:23:30.110] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/LivingRenderer;} {} {V}
+[31一月2022 12:23:30.110] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/particle/ParticleManager$IParticleMetaFactory;} {} {V}
+[31一月2022 12:23:30.110] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/fonts/providers/TextureGlyphProvider$1;} {} {V}
+[31一月2022 12:23:30.110] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Direction;} {} {V}
+[31一月2022 12:23:30.110] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$BlendState;} {} {V}
+[31一月2022 12:23:30.110] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/AbstractChunkRenderContainer;} {} {V}
+[31一月2022 12:23:30.110] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager;} {} {V}
+[31一月2022 12:23:30.111] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/tileentity/TileEntityRendererDispatcher;} {} {V}
+[31一月2022 12:23:30.113] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/layers/CapeLayer;} {} {V}
+[31一月2022 12:23:30.114] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/layers/SheepWoolLayer;} {} {V}
+[31一月2022 12:23:30.115] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/FaceBakery$5;} {} {V}
+[31一月2022 12:23:30.115] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/vertex/DefaultVertexFormats;} {} {V}
+[31一月2022 12:23:30.115] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/chunk/ChunkRenderCache;} {} {V}
+[31一月2022 12:23:30.116] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/screen/MainMenuScreen$WarningDisplay;} {} {V}
+[31一月2022 12:23:30.116] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/MobRenderer;} {} {V}
+[31一月2022 12:23:30.116] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/LightTexture;} {} {V}
+[31一月2022 12:23:30.116] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$LogicOp;} {} {V}
+[31一月2022 12:23:30.116] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$Profile$2;} {} {V}
+[31一月2022 12:23:30.116] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockModelRenderer$NeighborInfo;} {} {V}
+[31一月2022 12:23:30.116] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/ITextureObject;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/DownloadingTexture$1;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Direction$Axis$2;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/FirstPersonRenderer$1;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/ItemFrameRenderer;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/state/Property;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/FaceBakery$Rotation;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/particle/ParticleManager;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/ActiveRenderInfo;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/settings/AbstractOption;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/screen/DownloadTerrainScreen;} {} {V}
+[31一月2022 12:23:30.117] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/particle/ParticleManager$1;} {} {V}
+[31一月2022 12:23:30.118] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/ResourceLoadProgressGui$MojangLogoTexture;} {} {V}
+[31一月2022 12:23:30.118] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/ModelBakery$BlockStateDefinitionException;} {} {V}
+[31一月2022 12:23:30.118] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/chunk/SetVisibility;} {} {V}
+[31一月2022 12:23:30.118] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/screen/MainMenuScreen;} {} {V}
+[31一月2022 12:23:30.119] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/NewChatGui;} {} {V}
+[31一月2022 12:23:30.120] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/particle/ItemPickupParticle;} {} {V}
+[31一月2022 12:23:30.120] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Direction$Plane;} {} {V}
+[31一月2022 12:23:30.122] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/vertex/VertexBuffer;} {} {V}
+[31一月2022 12:23:30.122] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/entity/ExperienceOrbRenderer;} {} {V}
+[31一月2022 12:23:30.122] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/SimpleTexture$TextureData;} {} {V}
+[31一月2022 12:23:30.122] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/MainWindow;} {} {V}
+[31一月2022 12:23:30.122] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/model/FaceBakery;} {} {V}
+[31一月2022 12:23:30.122] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/GameSettings;} {} {V}
+[31一月2022 12:23:30.122] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/math/ChunkPos$1;} {} {V}
+[31一月2022 12:23:30.122] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Direction$Axis;} {} {V}
+[31一月2022 12:23:30.122] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/chunk/CompiledChunk;} {} {V}
+[31一月2022 12:23:30.123] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/LayeredTexture;} {} {V}
+[31一月2022 12:23:30.123] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/gui/screen/VideoSettingsScreen;} {} {V}
+[31一月2022 12:23:30.123] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/FogRenderer;} {} {V}
+[31一月2022 12:23:30.123] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lcom/mojang/blaze3d/platform/GlStateManager$AlphaState;} {} {V}
+[31一月2022 12:23:30.123] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/WorldRenderer;} {} {V}
+[31一月2022 12:23:30.123] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/block/material/MaterialColor;} {} {V}
+[31一月2022 12:23:30.123] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/AtlasTexture;} {} {V}
+[31一月2022 12:23:30.123] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/tileentity/SignTileEntityRenderer;} {} {V}
+[31一月2022 12:23:30.123] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/BlockModelRenderer$Orientation;} {} {V}
+[31一月2022 12:23:30.124] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/Stitcher;} {} {V}
+[31一月2022 12:23:30.124] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/profiler/DebugProfiler;} {} {V}
+[31一月2022 12:23:30.124] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/chunk/ChunkRenderDispatcher;} {} {V}
+[31一月2022 12:23:30.124] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/StitcherException;} {} {V}
+[31一月2022 12:23:30.124] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/NativeImage$1;} {} {V}
+[31一月2022 12:23:30.124] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/IntArray;} {} {V}
+[31一月2022 12:23:30.124] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/util/Direction$1;} {} {V}
+[31一月2022 12:23:30.124] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/profiler/DebugProfiler$DebugResultEntryImpl;} {} {V}
+[31一月2022 12:23:30.124] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer optifine.OptiFineTransformer@1133ec6e to Target : CLASS {Lnet/minecraft/client/renderer/texture/ISprite;} {} {V}
+[31一月2022 12:23:30.125] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformers for transformation service OptiFine
+[31一月2022 12:23:30.125] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformers for transformation service fml
+[31一月2022 12:23:30.125] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading coremod transformers
+[31一月2022 12:23:30.126] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from META-INF/fieldtomethodtransformers.js
+[31一月2022 12:23:30.985] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
+[31一月2022 12:23:31.124] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@5a12c728 to Target : CLASS {Lnet/minecraft/potion/EffectInstance;} {} {V}
+[31一月2022 12:23:31.125] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@79ab3a71 to Target : CLASS {Lnet/minecraft/block/FlowingFluidBlock;} {} {V}
+[31一月2022 12:23:31.125] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@6e5bfdfc to Target : CLASS {Lnet/minecraft/item/BucketItem;} {} {V}
+[31一月2022 12:23:31.125] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@3d829787 to Target : CLASS {Lnet/minecraft/block/StairsBlock;} {} {V}
+[31一月2022 12:23:31.125] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@71652c98 to Target : CLASS {Lnet/minecraft/block/FlowerPotBlock;} {} {V}
+[31一月2022 12:23:31.125] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@51bde877 to Target : CLASS {Lnet/minecraft/item/FishBucketItem;} {} {V}
+[31一月2022 12:23:31.126] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformers for transformation service fml
+[31一月2022 12:23:31.144] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[31一月2022 12:23:31.238] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlclient' with arguments [--version, HMCL 3.3.188, --gameDir, D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft, --assetsDir, D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\assets, --uuid, 84e8de8ef6d94371835b6844cb7ff0e9, --username, GLgele, --assetIndex, 1.14, --accessToken, ????????, --userType, mojang, --versionType, HMCL 3.3.188, --width, 854, --height, 480, --tweakClass, optifine.OptiFineTweaker]
+[31一月2022 12:23:32.826] [main/INFO] [STDOUT/]: [net.minecraft.client.main.Main:main:76]: Completely ignored arguments: [--tweakClass, optifine.OptiFineTweaker]
+[31一月2022 12:23:37.148] [Client thread/INFO] [net.optifine.reflect.Reflector/]: [OptiFine] *** Reflector Forge ***
+[31一月2022 12:23:37.696] [Client thread/INFO] [net.optifine.reflect.Reflector/]: [OptiFine] *** Reflector Vanilla ***
+[31一月2022 12:23:38.650] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: GLgele
+[31一月2022 12:23:41.117] [Client thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/block/FlowingFluidBlock
+[31一月2022 12:23:41.434] [Client thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/block/StairsBlock
+[31一月2022 12:23:41.678] [Client thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/block/FlowerPotBlock
+[31一月2022 12:23:50.389] [Client thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/item/BucketItem
+[31一月2022 12:23:50.437] [Client thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/item/FishBucketItem
+[31一月2022 12:23:51.265] [Client thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/potion/EffectInstance
+[31一月2022 12:24:00.272] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[31一月2022 12:24:00.422] [Client thread/INFO] [net.minecraft.client.Minecraft/]: LWJGL Version: 3.2.2 build 10
+[31一月2022 12:24:02.125] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] 
+[31一月2022 12:24:02.125] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] OptiFine_1.14.4_HD_U_G5
+[31一月2022 12:24:02.154] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Build: 20210124-160733
+[31一月2022 12:24:02.155] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[31一月2022 12:24:02.155] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Java: 1.8.0_311, Oracle Corporation
+[31一月2022 12:24:02.155] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[31一月2022 12:24:02.155] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[31一月2022 12:24:02.173] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL: Intel(R) HD Graphics 530, version 4.4.0 - Build 20.19.15.4463, Intel
+[31一月2022 12:24:02.174] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL Version: 4.4.0
+[31一月2022 12:24:02.175] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[31一月2022 12:24:02.451] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Maximum texture size: 16384x16384
+[31一月2022 12:24:02.493] [VersionCheck/INFO] [net.optifine.Config/]: [OptiFine] Checking for new version
+[31一月2022 12:24:02.653] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] OpenGL Version: 4.4.0 - Build 20.19.15.4463
+[31一月2022 12:24:02.653] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Vendor:  Intel
+[31一月2022 12:24:02.654] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Renderer: Intel(R) HD Graphics 530
+[31一月2022 12:24:02.654] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[31一月2022 12:24:02.654] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[31一月2022 12:24:02.654] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[31一月2022 12:24:02.655] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[31一月2022 12:24:02.655] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Load shaders configuration.
+[31一月2022 12:24:02.657] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Save shaders configuration.
+[31一月2022 12:24:02.660] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] No shaderpack loaded.
+[31一月2022 12:24:02.718] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[31一月2022 12:24:03.535] [VersionCheck/INFO] [net.optifine.Config/]: [OptiFine] Version found: G5
+[31一月2022 12:24:03.734] [Client thread/DEBUG] [net.minecraftforge.fml.ForgeI18n/CORE]: Loading I18N data entries: 4472
+[31一月2022 12:24:04.386] [Client thread/DEBUG] [net.minecraftforge.fml.ModLoader/CORE]: Loading Network data for FML net version: FML2
+[31一月2022 12:24:04.426] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Using 4 threads for parallel mod-loading
+[31一月2022 12:24:04.434] [Client thread/DEBUG] [net.minecraftforge.fml.ModLoader/LOADING]: ModContainer is cpw.mods.modlauncher.TransformingClassLoader@17f9344b
+[31一月2022 12:24:04.452] [Client thread/DEBUG] [net.minecraftforge.fml.ModLoader/LOADING]: ModContainer is cpw.mods.modlauncher.TransformingClassLoader@17f9344b
+[31一月2022 12:24:04.458] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@17f9344b - got cpw.mods.modlauncher.TransformingClassLoader@17f9344b
+[31一月2022 12:24:04.458] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraftforge.common.ForgeMod with classLoader cpw.mods.modlauncher.TransformingClassLoader@17f9344b & cpw.mods.modlauncher.TransformingClassLoader@17f9344b
+[31一月2022 12:24:04.487] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Loaded modclass net.minecraftforge.common.ForgeMod with cpw.mods.modlauncher.TransformingClassLoader@17f9344b
+[31一月2022 12:24:04.506] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:CONSTRUCT
+[31一月2022 12:24:04.877] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Loading mod instance forge of type net.minecraftforge.common.ForgeMod
+[31一月2022 12:24:04.877] [modloading-worker-1/DEBUG] [net.minecraftforge.versions.forge.ForgeVersion/CORE]: Forge Version package package net.minecraftforge.versions.forge, Forge, version 28.2 from cpw.mods.modlauncher.TransformingClassLoader@17f9344b
+[31一月2022 12:24:04.878] [modloading-worker-1/DEBUG] [net.minecraftforge.versions.forge.ForgeVersion/CORE]: Found Forge version 28.2.1
+[31一月2022 12:24:04.878] [modloading-worker-1/DEBUG] [net.minecraftforge.versions.forge.ForgeVersion/CORE]: Found Forge spec 28.2
+[31一月2022 12:24:04.878] [modloading-worker-1/DEBUG] [net.minecraftforge.versions.forge.ForgeVersion/CORE]: Found Forge group net.minecraftforge
+[31一月2022 12:24:04.994] [modloading-worker-1/DEBUG] [net.minecraftforge.versions.mcp.MCPVersion/CORE]: Found MC version information 1.14.4
+[31一月2022 12:24:04.994] [modloading-worker-1/DEBUG] [net.minecraftforge.versions.mcp.MCPVersion/CORE]: Found MCP version information 20190829.143755
+[31一月2022 12:24:04.994] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 28.2.1, for MC 1.14.4 with MCP 20190829.143755
+[31一月2022 12:24:04.995] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v28.2.1 Initialized
+[31一月2022 12:24:05.457] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file forge-client.toml for forge tracking
+[31一月2022 12:24:05.458] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Config file forge-server.toml for forge tracking
+[31一月2022 12:24:05.462] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Loaded mod instance forge of type net.minecraftforge.common.ForgeMod
+[31一月2022 12:24:05.462] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Injecting Automatic event subscribers for forge
+[31一月2022 12:24:05.492] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for forge
+[31一月2022 12:24:05.507] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.AutomaticEventSubscriber/LOADING]: Auto-subscribing net.minecraftforge.client.model.ModelDataManager to FORGE
+[31一月2022 12:24:05.539] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Completed Automatic event subscribers for forge
+[31一月2022 12:24:05.579] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:CREATE_REGISTRIES
+[31一月2022 12:24:05.580] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.NewRegistry
+[31一月2022 12:24:05.581] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.NewRegistry
+[31一月2022 12:24:05.777] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.777] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:block>
+[31一月2022 12:24:05.777] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:block>
+[31一月2022 12:24:05.782] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.782] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:item>
+[31一月2022 12:24:05.782] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:item>
+[31一月2022 12:24:05.785] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.785] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<forge:moddimensions>
+[31一月2022 12:24:05.786] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<forge:moddimensions>
+[31一月2022 12:24:05.786] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.786] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:activities>
+[31一月2022 12:24:05.786] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:activities>
+[31一月2022 12:24:05.787] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.787] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:biome>
+[31一月2022 12:24:05.787] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:biome>
+[31一月2022 12:24:05.787] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.787] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:biome_source_type>
+[31一月2022 12:24:05.787] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:biome_source_type>
+[31一月2022 12:24:05.788] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.788] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:block_entity_type>
+[31一月2022 12:24:05.788] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:block_entity_type>
+[31一月2022 12:24:05.788] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.788] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:carver>
+[31一月2022 12:24:05.788] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:carver>
+[31一月2022 12:24:05.789] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.789] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:chunk_generator_type>
+[31一月2022 12:24:05.789] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:chunk_generator_type>
+[31一月2022 12:24:05.789] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.789] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:chunk_status>
+[31一月2022 12:24:05.789] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:chunk_status>
+[31一月2022 12:24:05.790] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.790] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:dataserializers>
+[31一月2022 12:24:05.791] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:dataserializers>
+[31一月2022 12:24:05.791] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.791] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:decorator>
+[31一月2022 12:24:05.791] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:decorator>
+[31一月2022 12:24:05.792] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.792] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:enchantment>
+[31一月2022 12:24:05.792] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:enchantment>
+[31一月2022 12:24:05.792] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.793] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:entity_type>
+[31一月2022 12:24:05.793] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:entity_type>
+[31一月2022 12:24:05.793] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.793] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:feature>
+[31一月2022 12:24:05.793] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:feature>
+[31一月2022 12:24:05.793] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.794] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:fluid>
+[31一月2022 12:24:05.794] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:fluid>
+[31一月2022 12:24:05.794] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.794] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:memory_module_type>
+[31一月2022 12:24:05.794] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:memory_module_type>
+[31一月2022 12:24:05.794] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.794] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:menu>
+[31一月2022 12:24:05.794] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:menu>
+[31一月2022 12:24:05.795] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.795] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:mob_effect>
+[31一月2022 12:24:05.795] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:mob_effect>
+[31一月2022 12:24:05.796] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.796] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:motive>
+[31一月2022 12:24:05.796] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:motive>
+[31一月2022 12:24:05.796] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.796] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:particle_type>
+[31一月2022 12:24:05.796] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:particle_type>
+[31一月2022 12:24:05.797] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.797] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:point_of_interest_type>
+[31一月2022 12:24:05.797] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:point_of_interest_type>
+[31一月2022 12:24:05.797] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.797] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:potion>
+[31一月2022 12:24:05.797] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:potion>
+[31一月2022 12:24:05.797] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.798] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:recipe_serializer>
+[31一月2022 12:24:05.930] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:recipe_serializer>
+[31一月2022 12:24:05.931] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.931] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:schedule>
+[31一月2022 12:24:05.931] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:schedule>
+[31一月2022 12:24:05.931] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.932] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:sensor_type>
+[31一月2022 12:24:05.932] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:sensor_type>
+[31一月2022 12:24:05.933] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.933] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:sound_event>
+[31一月2022 12:24:05.934] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:sound_event>
+[31一月2022 12:24:05.935] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.935] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:stat_type>
+[31一月2022 12:24:05.935] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:stat_type>
+[31一月2022 12:24:05.936] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.936] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:surface_builder>
+[31一月2022 12:24:05.936] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:surface_builder>
+[31一月2022 12:24:05.936] [Client thread/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching synchronous event LifecycleEvent:LOAD_REGISTRIES
+[31一月2022 12:24:05.936] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : RegistryEvent.Register<minecraft:villager_profession>
+[31一月2022 12:24:05.936] [Client thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : RegistryEvent.Register<minecraft:villager_profession>
+[31一月2022 12:24:06.013] [Client thread/DEBUG] [net.minecraftforge.fml.client.ClientModLoader/CORE]: Generating PackInfo named mod:forge for mod file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-universal.jar
+[31一月2022 12:24:06.028] [Client thread/DEBUG] [net.minecraftforge.fml.ForgeI18n/CORE]: Loading I18N data entries: 0
+[31一月2022 12:24:08.280] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[31一月2022 12:24:08.537] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading textures ***
+[31一月2022 12:24:08.538] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Resource packs: Mod Resources
+[31一月2022 12:24:09.033] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[31一月2022 12:24:09.385] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IForgeUnbakedModel
+[31一月2022 12:24:09.448] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[31一月2022 12:24:09.766] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[31一月2022 12:24:35.658] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type CLIENT
+[31一月2022 12:24:35.659] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading config file type CLIENT at forge-client.toml for forge
+[31一月2022 12:24:35.667] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml
+[31一月2022 12:24:35.670] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml
+[31一月2022 12:24:35.673] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml for changes
+[31一月2022 12:24:35.674] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml is not correct. Correcting
+[31一月2022 12:24:35.676] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to SimpleCommentedConfig:{}
+[31一月2022 12:24:35.678] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.zoomInMissingModelTextInGui was corrected from null to false
+[31一月2022 12:24:35.680] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.forgeCloudsEnabled was corrected from null to true
+[31一月2022 12:24:35.684] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.disableStairSlabCulling was corrected from null to false
+[31一月2022 12:24:35.685] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to false
+[31一月2022 12:24:35.685] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.forgeLightPipelineEnabled was corrected from null to true
+[31一月2022 12:24:35.685] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.selectiveResourceReloadEnabled was corrected from null to true
+[31一月2022 12:24:35.686] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showLoadWarnings was corrected from null to true
+[31一月2022 12:24:35.686] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.allowEmissiveItems was corrected from null to true
+[31一月2022 12:24:35.688] [Server-Worker-1/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Loaded forge config file forge-client.toml
+[31一月2022 12:24:35.689] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type COMMON
+[31一月2022 12:24:35.690] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:COMMON_SETUP
+[31一月2022 12:24:35.691] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : FMLCommonSetupEvent
+[31一月2022 12:24:36.186] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : FMLCommonSetupEvent
+[31一月2022 12:24:36.190] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:SIDED_SETUP
+[31一月2022 12:24:36.207] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : FMLClientSetupEvent
+[31一月2022 12:24:36.207] [modloading-worker-3/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : FMLClientSetupEvent
+[31一月2022 12:24:36.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[31一月2022 12:24:40.273] [Forge Version Check/DEBUG] [net.minecraftforge.fml.VersionChecker/]: [forge] Received version check data:
+{
+  "homepage": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+  "promos": {
+    "1.1-latest": "1.3.4.29",
+    "1.2.3-latest": "1.4.1.64",
+    "1.2.4-latest": "2.0.0.68",
+    "1.2.5-latest": "3.4.9.171",
+    "1.3.2-latest": "4.3.5.318",
+    "1.4.0-latest": "5.0.0.326",
+    "1.4.1-latest": "6.0.0.329",
+    "1.4.2-latest": "6.0.1.355",
+    "1.4.3-latest": "6.2.1.358",
+    "1.4.4-latest": "6.3.0.378",
+    "1.4.5-latest": "6.4.2.448",
+    "1.4.6-latest": "6.5.0.489",
+    "1.4.7-latest": "6.6.2.534",
+    "1.5-latest": "7.7.0.598",
+    "1.5.1-latest": "7.7.2.682",
+    "1.5.2-latest": "7.8.1.738",
+    "1.5.2-recommended": "7.8.1.738",
+    "1.6.1-latest": "8.9.0.775",
+    "1.6.2-latest": "9.10.1.871",
+    "1.6.2-recommended": "9.10.1.871",
+    "1.6.3-latest": "9.11.0.878",
+    "1.6.4-latest": "9.11.1.1345",
+    "1.6.4-recommended": "9.11.1.1345",
+    "1.7.2-latest": "10.12.2.1161",
+    "1.7.2-recommended": "10.12.2.1161",
+    "1.7.10_pre4-latest": "10.12.2.1149",
+    "1.7.10-latest": "10.13.4.1614",
+    "1.7.10-recommended": "10.13.4.1614",
+    "1.8-latest": "11.14.4.1577",
+    "1.8-recommended": "11.14.4.1563",
+    "1.8.8-latest": "11.15.0.1655",
+    "1.8.9-latest": "11.15.1.2318",
+    "1.8.9-recommended": "11.15.1.2318",
+    "1.9-latest": "12.16.1.1938",
+    "1.9-recommended": "12.16.1.1887",
+    "1.9.4-latest": "12.17.0.2317",
+    "1.9.4-recommended": "12.17.0.2317",
+    "1.10-latest": "12.18.0.2000",
+    "1.10.2-latest": "12.18.3.2511",
+    "1.10.2-recommended": "12.18.3.2511",
+    "1.11-latest": "13.19.1.2199",
+    "1.11-recommended": "13.19.1.2189",
+    "1.11.2-latest": "13.20.1.2588",
+    "1.11.2-recommended": "13.20.1.2588",
+    "1.12-latest": "14.21.1.2443",
+    "1.12-recommended": "14.21.1.2387",
+    "1.12.1-latest": "14.22.1.2485",
+    "1.12.1-recommended": "14.22.1.2478",
+    "1.12.2-latest": "14.23.5.2860",
+    "1.12.2-recommended": "14.23.5.2859",
+    "1.13.2-latest": "25.0.223",
+    "1.14.2-latest": "26.0.63",
+    "1.14.3-latest": "27.0.60",
+    "1.14.4-latest": "28.2.26",
+    "1.14.4-recommended": "28.2.26",
+    "1.15-latest": "29.0.4",
+    "1.15.1-latest": "30.0.51",
+    "1.15.2-latest": "31.2.57",
+    "1.15.2-recommended": "31.2.57",
+    "1.16.1-latest": "32.0.108",
+    "1.16.2-latest": "33.0.61",
+    "1.16.3-latest": "34.1.42",
+    "1.16.3-recommended": "34.1.0",
+    "1.16.4-latest": "35.1.37",
+    "1.16.4-recommended": "35.1.4",
+    "1.16.5-latest": "36.2.23",
+    "1.16.5-recommended": "36.2.20",
+    "1.17.1-latest": "37.1.1",
+    "1.17.1-recommended": "37.1.1",
+    "1.18-latest": "38.0.17",
+    "1.18.1-latest": "39.0.64"
+  }
+}
+[31一月2022 12:24:40.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 28.2.1 Target: 28.2.26
+[31一月2022 12:24:42.663] [Server-Worker-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:42.663] [Server-Worker-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:42.664] [Server-Worker-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:42.664] [Server-Worker-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:43.276] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[31一月2022 12:24:43.324] [Server-Worker-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:43.327] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:24:43.330] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[31一月2022 12:24:43.432] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[31一月2022 12:24:43.444] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[31一月2022 12:24:43.449] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[31一月2022 12:24:43.449] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[31一月2022 12:24:43.464] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[31一月2022 12:24:43.467] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[31一月2022 12:24:43.512] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[31一月2022 12:24:43.583] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[31一月2022 12:24:43.616] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[31一月2022 12:24:43.627] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[31一月2022 12:24:43.635] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[31一月2022 12:24:43.646] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[31一月2022 12:24:43.648] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[31一月2022 12:24:43.655] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[31一月2022 12:24:43.661] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[31一月2022 12:24:43.663] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[31一月2022 12:24:43.665] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[31一月2022 12:24:43.674] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[31一月2022 12:24:43.783] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[31一月2022 12:24:43.795] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[31一月2022 12:24:43.797] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[31一月2022 12:24:43.804] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[31一月2022 12:24:43.811] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[31一月2022 12:24:43.813] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[31一月2022 12:24:43.815] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[31一月2022 12:24:43.825] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[31一月2022 12:24:43.826] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[31一月2022 12:24:43.827] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[31一月2022 12:24:43.848] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[31一月2022 12:24:43.850] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[31一月2022 12:24:43.853] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[31一月2022 12:24:43.860] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[31一月2022 12:24:43.865] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[31一月2022 12:24:43.868] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[31一月2022 12:24:43.881] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[31一月2022 12:24:43.882] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[31一月2022 12:24:43.884] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:24:43.893] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[31一月2022 12:24:48.956] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[31一月2022 12:24:51.151] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:ENQUEUE_IMC
+[31一月2022 12:24:51.169] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : InterModEnqueueEvent
+[31一月2022 12:24:51.170] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : InterModEnqueueEvent
+[31一月2022 12:24:51.170] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:PROCESS_IMC
+[31一月2022 12:24:51.184] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : InterModProcessEvent
+[31一月2022 12:24:51.184] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : InterModProcessEvent
+[31一月2022 12:24:51.184] [Server-Worker-1/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:COMPLETE
+[31一月2022 12:24:51.201] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Firing event for modid forge : FMLLoadCompleteEvent
+[31一月2022 12:24:51.201] [modloading-worker-1/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Fired event for modid forge : FMLLoadCompleteEvent
+[31一月2022 12:24:51.338] [Server-Worker-1/DEBUG] [net.minecraftforge.registries.ClearableRegistry/REGISTRY]: minecraft:feature: Clearing registry
+[31一月2022 12:24:53.440] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[31一月2022 12:24:53.460] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[31一月2022 12:24:54.081] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x512 textures-atlas
+[31一月2022 12:24:54.305] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 33
+[31一月2022 12:24:55.676] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/particle-atlas
+[31一月2022 12:24:55.682] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/painting-atlas
+[31一月2022 12:24:55.686] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128 textures/mob_effect-atlas
+[31一月2022 12:24:55.688] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading custom textures ***
+[31一月2022 12:24:55.696] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.726] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.727] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.731] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.914] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.918] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.927] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Disable Forge light pipeline
+[31一月2022 12:24:55.928] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] Set ForgeConfig.CLIENT.forgeLightPipelineEnabled=false
+[31一月2022 12:24:57.548] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[31一月2022 12:25:04.016] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[31一月2022 12:25:04.017] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[31一月2022 12:25:04.018] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[31一月2022 12:25:04.019] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[31一月2022 12:25:04.021] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[31一月2022 12:25:04.150] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.14.4
+[31一月2022 12:25:04.151] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Generating keypair
+[31一月2022 12:25:04.316] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Making serverconfig directory : D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\saves\Greenfield v0.5.3\serverconfig
+[31一月2022 12:25:04.317] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Created serverconfig directory : D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\saves\Greenfield v0.5.3\serverconfig
+[31一月2022 12:25:04.317] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type SERVER
+[31一月2022 12:25:04.317] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading config file type SERVER at forge-server.toml for forge
+[31一月2022 12:25:04.317] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\saves\Greenfield v0.5.3\serverconfig\forge-server.toml
+[31一月2022 12:25:04.318] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\saves\Greenfield v0.5.3\serverconfig\forge-server.toml
+[31一月2022 12:25:04.319] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\saves\Greenfield v0.5.3\serverconfig\forge-server.toml for changes
+[31一月2022 12:25:04.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\saves\Greenfield v0.5.3\serverconfig\forge-server.toml is not correct. Correcting
+[31一月2022 12:25:04.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to SimpleCommentedConfig:{}
+[31一月2022 12:25:04.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to false
+[31一月2022 12:25:04.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to false
+[31一月2022 12:25:04.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to false
+[31一月2022 12:25:04.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to 0.1
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to 0.05
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to true
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to false
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to 0
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.clumpingThreshold was corrected from null to 64
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to false
+[31一月2022 12:25:04.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Loaded forge config file forge-server.toml
+[31一月2022 12:25:04.329] [Thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-server.toml changed, sending notifies
+[31一月2022 12:25:04.330] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[31一月2022 12:25:04.392] [Server thread/DEBUG] [net.minecraftforge.fml.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-universal.jar
+[31一月2022 12:25:04.395] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, bukkit, forge-1.14.4-28.2.1-universal.jar
+[31一月2022 12:25:05.170] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[31一月2022 12:25:05.960] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 811 advancements
+[31一月2022 12:25:06.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[31一月2022 12:25:11.002] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.003] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.003] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.048] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.049] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.050] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.051] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.051] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.051] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.051] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.982] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:12.431] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：18%
+[31一月2022 12:25:12.772] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：43%
+[31一月2022 12:25:13.670] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：52%
+[31一月2022 12:25:13.671] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：52%
+[31一月2022 12:25:14.000] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：90%
+[31一月2022 12:25:14.134] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 7648 ms
+[31一月2022 12:25:14.661] [Server thread/DEBUG] [net.minecraftforge.common.DimensionManager/DIMS]: Queueing dimension 1 to unload
+[31一月2022 12:25:14.705] [Server thread/DEBUG] [net.minecraftforge.common.DimensionManager/DIMS]: Queueing dimension -1 to unload
+[31一月2022 12:25:16.172] [Server thread/DEBUG] [net.minecraftforge.common.DimensionManager/DIMS]: Unloading dimension 1
+[31一月2022 12:25:16.175] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31一月2022 12:25:16.176] [Server thread/DEBUG] [net.minecraftforge.common.DimensionManager/DIMS]: Unloading dimension -1
+[31一月2022 12:25:16.176] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31一月2022 12:25:16.177] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 6, from 10
+[31一月2022 12:25:16.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[31一月2022 12:25:19.204] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting local connection.
+[31一月2022 12:25:19.513] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting local connection.
+[31一月2022 12:25:19.940] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 0
+[31一月2022 12:25:19.993] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[31一月2022 12:25:19.996] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 1
+[31一月2022 12:25:20.019] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Logging into server with mod list [minecraft, forge]
+[31一月2022 12:25:20.021] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from server : ACCEPTED
+[31一月2022 12:25:20.021] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from server : ACCEPTED
+[31一月2022 12:25:20.022] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from server : ACCEPTED
+[31一月2022 12:25:20.022] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from server : ACCEPTED
+[31一月2022 12:25:20.022] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from server : ACCEPTED
+[31一月2022 12:25:20.022] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from server
+[31一月2022 12:25:20.031] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 0
+[31一月2022 12:25:20.045] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[31一月2022 12:25:20.045] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted server connection
+[31一月2022 12:25:20.047] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[31一月2022 12:25:20.048] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, forge]
+[31一月2022 12:25:20.048] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[31一月2022 12:25:20.049] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[31一月2022 12:25:20.049] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[31一月2022 12:25:20.049] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[31一月2022 12:25:20.049] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[31一月2022 12:25:20.049] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[31一月2022 12:25:20.049] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[31一月2022 12:25:20.050] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[31一月2022 12:25:20.051] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received config sync from server
+[31一月2022 12:25:20.051] [Netty Local Client IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
+[31一月2022 12:25:20.052] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[31一月2022 12:25:20.052] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[31一月2022 12:25:20.052] [Netty Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31一月2022 12:25:20.094] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[31一月2022 12:25:20.356] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[31一月2022 12:25:20.597] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GLgele[local:E:9a5929c7] logged in with entity id 5514 at (115.5, 71.0, -1.5)
+[31一月2022 12:25:20.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GLgele加入了游戏
+[31一月2022 12:25:31.257] [Client thread/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index -1
+[31一月2022 12:25:31.258] [Client thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[31一月2022 12:25:32.822] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index -1
+[31一月2022 12:25:32.823] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[31一月2022 12:25:32.826] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:25:33.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:25:36.513] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:25:36.514] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:25:36.514] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:25:36.515] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:25:36.515] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:25:36.515] [Client thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 0 advancements
+[31一月2022 12:25:51.719] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Greenfield v0.5.3
+[31一月2022 12:25:51.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18973ms or 379 ticks behind
+[31一月2022 12:25:56.576] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:25:56.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:25:57.783] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Greenfield v0.5.3
+[31一月2022 12:25:58.032] [Client thread/DEBUG] [net.minecraftforge.fml.client.ClientModLoader/CORE]: Generating PackInfo named mod:forge for mod file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-universal.jar
+[31一月2022 12:26:01.327] [Client thread/DEBUG] [net.minecraftforge.fml.client.ClientModLoader/CORE]: Generating PackInfo named mod:forge for mod file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-universal.jar
+[31一月2022 12:26:01.327] [Client thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Mod Resources, Default, Programmer Art, Greenfield-Texturepack-1.14.zip
+[31一月2022 12:26:01.340] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading textures ***
+[31一月2022 12:26:01.340] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type CLIENT
+[31一月2022 12:26:01.340] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading config file type CLIENT at forge-client.toml for forge
+[31一月2022 12:26:01.341] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml
+[31一月2022 12:26:01.340] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Resource packs: Mod Resources, Programmer Art, Greenfield-Texturepack-1.14.zip
+[31一月2022 12:26:01.372] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml
+[31一月2022 12:26:01.373] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml for changes
+[31一月2022 12:26:01.374] [Server-Worker-10/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Loaded forge config file forge-client.toml
+[31一月2022 12:26:01.374] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type COMMON
+[31一月2022 12:26:01.375] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:COMMON_SETUP
+[31一月2022 12:26:01.375] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:SIDED_SETUP
+[31一月2022 12:26:03.898] [Server-Worker-12/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:03.899] [Server-Worker-12/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:03.900] [Server-Worker-12/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:03.901] [Server-Worker-12/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:04.154] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:block/dead_horn_coral
+[31一月2022 12:26:04.155] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:block/dead_bubble_coral
+[31一月2022 12:26:04.155] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:block/dead_brain_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:item/dead_fire_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:block/dead_fire_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:item/dead_brain_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:item/dead_horn_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:item/dead_bubble_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[31一月2022 12:26:04.160] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:04.165] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:04.172] [Server-Worker-12/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:04.173] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:04.174] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:04.175] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[31一月2022 12:26:05.743] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[31一月2022 12:26:06.064] [Server-Worker-12/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:ENQUEUE_IMC
+[31一月2022 12:26:06.065] [Server-Worker-12/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:PROCESS_IMC
+[31一月2022 12:26:06.065] [Server-Worker-12/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:COMPLETE
+[31一月2022 12:26:06.083] [Server-Worker-12/DEBUG] [net.minecraftforge.registries.ClearableRegistry/REGISTRY]: minecraft:feature: Clearing registry
+[31一月2022 12:26:06.270] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: lastServer:
+[31一月2022 12:26:06.778] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[31一月2022 12:26:06.778] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[31一月2022 12:26:07.079] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512 textures-atlas
+[31一月2022 12:26:07.091] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 25
+[31一月2022 12:26:09.598] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/particle-atlas
+[31一月2022 12:26:09.601] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/painting-atlas
+[31一月2022 12:26:09.642] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128 textures/mob_effect-atlas
+[31一月2022 12:26:09.643] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading custom textures ***
+[31一月2022 12:26:09.652] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.665] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.671] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.677] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.820] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.822] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.830] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Disable Forge light pipeline
+[31一月2022 12:26:09.830] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] Set ForgeConfig.CLIENT.forgeLightPipelineEnabled=false
+[31一月2022 12:26:12.004] [Client thread/DEBUG] [net.minecraftforge.fml.client.ClientModLoader/CORE]: Generating PackInfo named mod:forge for mod file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-universal.jar
+[31一月2022 12:26:17.056] [Client thread/DEBUG] [net.minecraftforge.fml.client.ClientModLoader/CORE]: Generating PackInfo named mod:forge for mod file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\net\minecraftforge\forge\1.14.4-28.2.1\forge-1.14.4-28.2.1-universal.jar
+[31一月2022 12:26:17.056] [Client thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources, Programmer Art, Greenfield-Texturepack-1.14.zip
+[31一月2022 12:26:17.061] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading textures ***
+[31一月2022 12:26:17.062] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Resource packs: Mod Resources, Programmer Art, Greenfield-Texturepack-1.14.zip
+[31一月2022 12:26:17.062] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type CLIENT
+[31一月2022 12:26:17.062] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading config file type CLIENT at forge-client.toml for forge
+[31一月2022 12:26:17.063] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Built TOML config for D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml
+[31一月2022 12:26:17.066] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Loaded TOML config file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml
+[31一月2022 12:26:17.068] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Watching TOML config file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml for changes
+[31一月2022 12:26:17.068] [Server-Worker-10/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Loaded forge config file forge-client.toml
+[31一月2022 12:26:17.069] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Loading configs type COMMON
+[31一月2022 12:26:17.069] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:COMMON_SETUP
+[31一月2022 12:26:17.074] [Server-Worker-10/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:SIDED_SETUP
+[31一月2022 12:26:18.405] [Server-Worker-15/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:18.405] [Server-Worker-15/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:18.405] [Server-Worker-15/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:18.405] [Server-Worker-15/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:18.538] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:block/dead_horn_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:block/dead_bubble_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:block/dead_brain_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:item/dead_fire_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:block/dead_fire_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:item/dead_brain_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:item/dead_horn_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:item/dead_bubble_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[31一月2022 12:26:18.542] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:18.546] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:18.553] [Server-Worker-15/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:18.553] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:18.555] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:18.555] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[31一月2022 12:26:19.695] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[31一月2022 12:26:19.986] [Server-Worker-15/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:ENQUEUE_IMC
+[31一月2022 12:26:19.987] [Server-Worker-15/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:PROCESS_IMC
+[31一月2022 12:26:19.988] [Server-Worker-15/DEBUG] [net.minecraftforge.fml.ModList/LOADING]: Dispatching parallel event LifecycleEvent:COMPLETE
+[31一月2022 12:26:20.001] [Server-Worker-15/DEBUG] [net.minecraftforge.registries.ClearableRegistry/REGISTRY]: minecraft:feature: Clearing registry
+[31一月2022 12:26:20.122] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: lastServer:
+[31一月2022 12:26:20.347] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[31一月2022 12:26:20.348] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[31一月2022 12:26:20.742] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512 textures-atlas
+[31一月2022 12:26:20.756] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 25
+[31一月2022 12:26:21.142] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/particle-atlas
+[31一月2022 12:26:21.143] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/painting-atlas
+[31一月2022 12:26:21.144] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128 textures/mob_effect-atlas
+[31一月2022 12:26:21.144] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading custom textures ***
+[31一月2022 12:26:21.145] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.153] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.156] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.161] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.204] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.205] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.209] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Disable Forge light pipeline
+[31一月2022 12:26:21.209] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] Set ForgeConfig.CLIENT.forgeLightPipelineEnabled=false
+[31一月2022 12:26:32.527] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:26:32.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:26:33.526] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Greenfield v0.5.3
+[31一月2022 12:27:23.957] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Save shaders configuration.
+[31一月2022 12:28:08.776] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:28:08.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:28:09.797] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Greenfield v0.5.3
+[31一月2022 12:28:30.950] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:28:30.950] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:28:30.951] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:28:30.952] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:28:30.952] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:29:22.052] [Client thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7 advancements
+[31一月2022 12:29:31.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GLgele掉出了这个世界
+[31一月2022 12:29:31.662] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] GLgele掉出了这个世界
+[31一月2022 12:29:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GLgele: 已清除GLgele]
+[31一月2022 12:29:31.709] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 已清除GLgele
+[31一月2022 12:29:33.784] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:29:33.785] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:29:33.785] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:29:33.785] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:29:33.785] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:29:36.853] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:29:36.853] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:29:36.854] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:29:36.854] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:29:36.854] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:29:47.776] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:29:47.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:29:48.753] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Greenfield v0.5.3
+[31一月2022 12:29:52.883] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 10, from 6
+[31一月2022 12:29:54.327] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:29:54.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:29:55.167] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Greenfield v0.5.3
+[31一月2022 12:30:05.376] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:30:05.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:30:06.389] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Greenfield v0.5.3
+[31一月2022 12:30:20.986] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 14, from 10
+[31一月2022 12:30:27.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[31一月2022 12:30:51.486] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:30:51.488] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:30:51.488] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:30:51.489] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:30:51.489] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:31:02.476] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:31:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:31:10.080] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Greenfield v0.5.3
+[31一月2022 12:31:10.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7616ms or 152 ticks behind
+[31一月2022 12:31:10.287] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:31:10.287] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:31:10.287] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:31:10.288] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:31:10.288] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:31:29.752] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:31:29.752] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:31:29.753] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:31:29.753] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:31:29.753] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:31:30.176] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:31:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:31:33.999] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Greenfield v0.5.3
+[31一月2022 12:31:34.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3791ms or 75 ticks behind
+[31一月2022 12:37:53.149] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GLgele lost connection: 连接中止
+[31一月2022 12:37:53.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GLgele退出了游戏
+[31一月2022 12:37:53.196] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[31一月2022 12:37:53.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31一月2022 12:37:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31一月2022 12:37:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31一月2022 12:37:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:37:56.424] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Greenfield v0.5.3): All chunks are saved
+[31一月2022 12:37:56.425] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Greenfield v0.5.3
+[31一月2022 12:37:56.491] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Greenfield v0.5.3): All chunks are saved
+[31一月2022 12:38:07.787] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

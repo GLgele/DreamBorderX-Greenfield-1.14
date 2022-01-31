@@ -1,0 +1,334 @@
+[31一月2022 12:23:24.372] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, GLgele, --version, HMCL 3.3.188, --gameDir, D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft, --assetsDir, D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\assets, --assetIndex, 1.14, --uuid, 84e8de8ef6d94371835b6844cb7ff0e9, --accessToken, ????????, --userType, mojang, --versionType, HMCL 3.3.188, --width, 854, --height, 480, --tweakClass, optifine.OptiFineTweaker, --launchTarget, fmlclient, --fml.forgeVersion, 28.2.1, --fml.mcVersion, 1.14.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20190829.143755]
+[31一月2022 12:23:24.385] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 4.1.0+62+5bfa59b starting: java version 1.8.0_311 by Oracle Corporation
+[31一月2022 12:23:24.933] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[31一月2022 12:23:24.955] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\libraries\optifine\OptiFine\1.14.4_HD_U_G5\OptiFine-1.14.4_HD_U_G5.jar
+[31一月2022 12:23:24.988] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is not available
+[31一月2022 12:23:26.466] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[31一月2022 12:23:26.519] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[31一月2022 12:23:26.714] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\fml.toml is not correct. Correcting
+[31一月2022 12:23:26.737] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[31一月2022 12:23:29.955] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[31一月2022 12:23:30.010] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 246
+[31一月2022 12:23:31.144] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[31一月2022 12:23:31.238] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlclient' with arguments [--version, HMCL 3.3.188, --gameDir, D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft, --assetsDir, D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\assets, --uuid, 84e8de8ef6d94371835b6844cb7ff0e9, --username, GLgele, --assetIndex, 1.14, --accessToken, ????????, --userType, mojang, --versionType, HMCL 3.3.188, --width, 854, --height, 480, --tweakClass, optifine.OptiFineTweaker]
+[31一月2022 12:23:32.826] [main/INFO] [STDOUT/]: [net.minecraft.client.main.Main:main:76]: Completely ignored arguments: [--tweakClass, optifine.OptiFineTweaker]
+[31一月2022 12:23:37.148] [Client thread/INFO] [net.optifine.reflect.Reflector/]: [OptiFine] *** Reflector Forge ***
+[31一月2022 12:23:37.696] [Client thread/INFO] [net.optifine.reflect.Reflector/]: [OptiFine] *** Reflector Vanilla ***
+[31一月2022 12:23:38.650] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: GLgele
+[31一月2022 12:24:00.272] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[31一月2022 12:24:00.422] [Client thread/INFO] [net.minecraft.client.Minecraft/]: LWJGL Version: 3.2.2 build 10
+[31一月2022 12:24:02.125] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] 
+[31一月2022 12:24:02.125] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] OptiFine_1.14.4_HD_U_G5
+[31一月2022 12:24:02.154] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Build: 20210124-160733
+[31一月2022 12:24:02.155] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[31一月2022 12:24:02.155] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Java: 1.8.0_311, Oracle Corporation
+[31一月2022 12:24:02.155] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[31一月2022 12:24:02.155] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[31一月2022 12:24:02.173] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL: Intel(R) HD Graphics 530, version 4.4.0 - Build 20.19.15.4463, Intel
+[31一月2022 12:24:02.174] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL Version: 4.4.0
+[31一月2022 12:24:02.175] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[31一月2022 12:24:02.451] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Maximum texture size: 16384x16384
+[31一月2022 12:24:02.493] [VersionCheck/INFO] [net.optifine.Config/]: [OptiFine] Checking for new version
+[31一月2022 12:24:02.653] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] OpenGL Version: 4.4.0 - Build 20.19.15.4463
+[31一月2022 12:24:02.653] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Vendor:  Intel
+[31一月2022 12:24:02.654] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Renderer: Intel(R) HD Graphics 530
+[31一月2022 12:24:02.654] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[31一月2022 12:24:02.654] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[31一月2022 12:24:02.654] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[31一月2022 12:24:02.655] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[31一月2022 12:24:02.655] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Load shaders configuration.
+[31一月2022 12:24:02.657] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Save shaders configuration.
+[31一月2022 12:24:02.660] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] No shaderpack loaded.
+[31一月2022 12:24:02.718] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[31一月2022 12:24:03.535] [VersionCheck/INFO] [net.optifine.Config/]: [OptiFine] Version found: G5
+[31一月2022 12:24:04.994] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 28.2.1, for MC 1.14.4 with MCP 20190829.143755
+[31一月2022 12:24:04.995] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v28.2.1 Initialized
+[31一月2022 12:24:08.280] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[31一月2022 12:24:08.537] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading textures ***
+[31一月2022 12:24:08.538] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Resource packs: Mod Resources
+[31一月2022 12:24:09.033] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[31一月2022 12:24:09.385] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IForgeUnbakedModel
+[31一月2022 12:24:09.448] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[31一月2022 12:24:09.766] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[31一月2022 12:24:35.674] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\config\forge-client.toml is not correct. Correcting
+[31一月2022 12:24:35.676] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to SimpleCommentedConfig:{}
+[31一月2022 12:24:35.678] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.zoomInMissingModelTextInGui was corrected from null to false
+[31一月2022 12:24:35.680] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.forgeCloudsEnabled was corrected from null to true
+[31一月2022 12:24:35.684] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.disableStairSlabCulling was corrected from null to false
+[31一月2022 12:24:35.685] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to false
+[31一月2022 12:24:35.685] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.forgeLightPipelineEnabled was corrected from null to true
+[31一月2022 12:24:35.685] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.selectiveResourceReloadEnabled was corrected from null to true
+[31一月2022 12:24:35.686] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showLoadWarnings was corrected from null to true
+[31一月2022 12:24:35.686] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.allowEmissiveItems was corrected from null to true
+[31一月2022 12:24:36.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[31一月2022 12:24:40.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 28.2.1 Target: 28.2.26
+[31一月2022 12:24:42.663] [Server-Worker-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:42.663] [Server-Worker-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:42.664] [Server-Worker-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:42.664] [Server-Worker-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:43.276] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[31一月2022 12:24:43.324] [Server-Worker-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:43.327] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:24:43.330] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[31一月2022 12:24:43.432] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[31一月2022 12:24:43.444] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[31一月2022 12:24:43.449] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[31一月2022 12:24:43.449] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[31一月2022 12:24:43.464] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[31一月2022 12:24:43.467] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[31一月2022 12:24:43.512] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[31一月2022 12:24:43.583] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[31一月2022 12:24:43.616] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[31一月2022 12:24:43.627] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[31一月2022 12:24:43.635] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[31一月2022 12:24:43.646] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[31一月2022 12:24:43.648] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[31一月2022 12:24:43.655] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[31一月2022 12:24:43.661] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[31一月2022 12:24:43.663] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[31一月2022 12:24:43.665] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[31一月2022 12:24:43.674] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[31一月2022 12:24:43.783] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[31一月2022 12:24:43.795] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[31一月2022 12:24:43.797] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[31一月2022 12:24:43.804] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[31一月2022 12:24:43.811] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[31一月2022 12:24:43.813] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[31一月2022 12:24:43.815] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[31一月2022 12:24:43.825] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[31一月2022 12:24:43.826] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[31一月2022 12:24:43.827] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[31一月2022 12:24:43.848] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[31一月2022 12:24:43.850] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[31一月2022 12:24:43.853] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[31一月2022 12:24:43.860] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[31一月2022 12:24:43.865] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[31一月2022 12:24:43.868] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[31一月2022 12:24:43.881] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[31一月2022 12:24:43.882] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[31一月2022 12:24:43.884] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:24:43.893] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[31一月2022 12:24:48.956] [Server-Worker-1/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[31一月2022 12:24:53.440] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[31一月2022 12:24:53.460] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[31一月2022 12:24:54.081] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x512 textures-atlas
+[31一月2022 12:24:54.305] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 33
+[31一月2022 12:24:55.676] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/particle-atlas
+[31一月2022 12:24:55.682] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/painting-atlas
+[31一月2022 12:24:55.686] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128 textures/mob_effect-atlas
+[31一月2022 12:24:55.688] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading custom textures ***
+[31一月2022 12:24:55.696] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.726] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.727] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.731] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.914] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.918] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:24:55.927] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Disable Forge light pipeline
+[31一月2022 12:24:55.928] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] Set ForgeConfig.CLIENT.forgeLightPipelineEnabled=false
+[31一月2022 12:24:57.548] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[31一月2022 12:25:04.016] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[31一月2022 12:25:04.017] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[31一月2022 12:25:04.018] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[31一月2022 12:25:04.019] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[31一月2022 12:25:04.021] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[31一月2022 12:25:04.150] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.14.4
+[31一月2022 12:25:04.151] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Generating keypair
+[31一月2022 12:25:04.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\saves\Greenfield v0.5.3\serverconfig\forge-server.toml is not correct. Correcting
+[31一月2022 12:25:04.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to SimpleCommentedConfig:{}
+[31一月2022 12:25:04.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to false
+[31一月2022 12:25:04.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to false
+[31一月2022 12:25:04.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to false
+[31一月2022 12:25:04.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to 0.1
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to 0.05
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to true
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to false
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to 0
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.clumpingThreshold was corrected from null to 64
+[31一月2022 12:25:04.322] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to false
+[31一月2022 12:25:04.330] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[31一月2022 12:25:04.395] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, bukkit, forge-1.14.4-28.2.1-universal.jar
+[31一月2022 12:25:05.170] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[31一月2022 12:25:05.960] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 811 advancements
+[31一月2022 12:25:06.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[31一月2022 12:25:11.002] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.003] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.003] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.048] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.049] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.050] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.051] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.051] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.051] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.051] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:11.982] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[31一月2022 12:25:12.431] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：18%
+[31一月2022 12:25:12.772] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：43%
+[31一月2022 12:25:13.670] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：52%
+[31一月2022 12:25:13.671] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：52%
+[31一月2022 12:25:14.000] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：90%
+[31一月2022 12:25:14.134] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 7648 ms
+[31一月2022 12:25:16.175] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31一月2022 12:25:16.176] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31一月2022 12:25:16.177] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 6, from 10
+[31一月2022 12:25:16.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[31一月2022 12:25:20.356] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[31一月2022 12:25:20.597] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: GLgele[local:E:9a5929c7] logged in with entity id 5514 at (115.5, 71.0, -1.5)
+[31一月2022 12:25:20.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GLgele加入了游戏
+[31一月2022 12:25:31.258] [Client thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[31一月2022 12:25:32.823] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[31一月2022 12:25:32.826] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:25:33.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:25:36.513] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:25:36.514] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:25:36.514] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:25:36.515] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:25:36.515] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:25:36.515] [Client thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 0 advancements
+[31一月2022 12:25:51.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18973ms or 379 ticks behind
+[31一月2022 12:25:56.576] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:25:56.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:26:01.327] [Client thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Mod Resources, Default, Programmer Art, Greenfield-Texturepack-1.14.zip
+[31一月2022 12:26:01.340] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading textures ***
+[31一月2022 12:26:01.340] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Resource packs: Mod Resources, Programmer Art, Greenfield-Texturepack-1.14.zip
+[31一月2022 12:26:03.898] [Server-Worker-12/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:03.899] [Server-Worker-12/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:03.900] [Server-Worker-12/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:03.901] [Server-Worker-12/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:04.154] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:block/dead_horn_coral
+[31一月2022 12:26:04.155] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:block/dead_bubble_coral
+[31一月2022 12:26:04.155] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:block/dead_brain_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:item/dead_fire_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:block/dead_fire_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:item/dead_brain_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:item/dead_horn_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:item/dead_bubble_coral
+[31一月2022 12:26:04.156] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[31一月2022 12:26:04.160] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:04.165] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:04.172] [Server-Worker-12/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:04.173] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:04.174] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:04.175] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[31一月2022 12:26:05.743] [Server-Worker-12/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[31一月2022 12:26:06.270] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: lastServer:
+[31一月2022 12:26:06.778] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[31一月2022 12:26:06.778] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[31一月2022 12:26:07.079] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512 textures-atlas
+[31一月2022 12:26:07.091] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 25
+[31一月2022 12:26:09.598] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/particle-atlas
+[31一月2022 12:26:09.601] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/painting-atlas
+[31一月2022 12:26:09.642] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128 textures/mob_effect-atlas
+[31一月2022 12:26:09.643] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading custom textures ***
+[31一月2022 12:26:09.652] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.665] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.671] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.677] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.820] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.822] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:09.830] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Disable Forge light pipeline
+[31一月2022 12:26:09.830] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] Set ForgeConfig.CLIENT.forgeLightPipelineEnabled=false
+[31一月2022 12:26:17.056] [Client thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources, Programmer Art, Greenfield-Texturepack-1.14.zip
+[31一月2022 12:26:17.061] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading textures ***
+[31一月2022 12:26:17.062] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Resource packs: Mod Resources, Programmer Art, Greenfield-Texturepack-1.14.zip
+[31一月2022 12:26:18.405] [Server-Worker-15/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:18.405] [Server-Worker-15/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:18.405] [Server-Worker-15/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:18.405] [Server-Worker-15/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:18.538] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:block/dead_horn_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:block/dead_bubble_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:block/dead_brain_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:item/dead_fire_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:block/dead_fire_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:item/dead_brain_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #missing in minecraft:item/dead_horn_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/WARN] [net.minecraft.client.renderer.model.ModelBakery/]: Unable to resolve texture reference: #-1 in minecraft:item/dead_bubble_coral
+[31一月2022 12:26:18.539] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[31一月2022 12:26:18.542] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:18.546] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:18.553] [Server-Worker-15/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:18.553] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:18.555] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[31一月2022 12:26:18.555] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[31一月2022 12:26:19.695] [Server-Worker-15/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[31一月2022 12:26:20.122] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: lastServer:
+[31一月2022 12:26:20.347] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[31一月2022 12:26:20.348] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[31一月2022 12:26:20.742] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512 textures-atlas
+[31一月2022 12:26:20.756] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 25
+[31一月2022 12:26:21.142] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/particle-atlas
+[31一月2022 12:26:21.143] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256 textures/painting-atlas
+[31一月2022 12:26:21.144] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128 textures/mob_effect-atlas
+[31一月2022 12:26:21.144] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading custom textures ***
+[31一月2022 12:26:21.145] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.153] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.156] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.161] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.204] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.205] [Client thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[31一月2022 12:26:21.209] [Client thread/INFO] [net.optifine.Config/]: [OptiFine] Disable Forge light pipeline
+[31一月2022 12:26:21.209] [Client thread/INFO] [net.optifine.Log/]: [OptiFine] Set ForgeConfig.CLIENT.forgeLightPipelineEnabled=false
+[31一月2022 12:26:32.527] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:26:32.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:27:23.957] [Client thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Save shaders configuration.
+[31一月2022 12:28:08.776] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:28:08.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:28:30.950] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:28:30.950] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:28:30.951] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:28:30.952] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:28:30.952] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:29:22.052] [Client thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7 advancements
+[31一月2022 12:29:31.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GLgele掉出了这个世界
+[31一月2022 12:29:31.662] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] GLgele掉出了这个世界
+[31一月2022 12:29:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GLgele: 已清除GLgele]
+[31一月2022 12:29:31.709] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 已清除GLgele
+[31一月2022 12:29:33.784] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:29:33.785] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:29:33.785] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:29:33.785] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:29:33.785] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:29:36.853] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:29:36.853] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:29:36.854] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:29:36.854] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:29:36.854] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:29:47.776] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:29:47.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:29:52.883] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 10, from 6
+[31一月2022 12:29:54.327] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:29:54.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:30:05.376] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:30:05.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:30:20.986] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 14, from 10
+[31一月2022 12:30:27.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[31一月2022 12:30:51.486] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:30:51.488] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:30:51.488] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:30:51.489] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:30:51.489] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:31:02.476] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:31:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:31:10.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7616ms or 152 ticks behind
+[31一月2022 12:31:10.287] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:31:10.287] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:31:10.287] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:31:10.288] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:31:10.288] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:31:29.752] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Welcome to Greenfield, GLgele!
+[31一月2022 12:31:29.752] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:31:29.753] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] - Official Discord: https://discord.gg/4qfWGFc\n- Official Patreon: http://bit.do/greenfield-patreon\n- Official PMC: http://bit.do/Greenfield-PMC\n- Official Twitter: http://bit.do/Greenfield-Twitter\n- Official Facebook: http://bit.do/Greenfield-Facebook\n- Official Instagram: http://bit.do/greenfield-insta\n- Official Subreddit: https://www.reddit.com/r/GreenfieldCity
+[31一月2022 12:31:29.753] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT]                                                                             
+[31一月2022 12:31:29.753] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Click to get the Official Resource Pack
+[31一月2022 12:31:30.176] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[31一月2022 12:31:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:31:34.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3791ms or 75 ticks behind
+[31一月2022 12:37:53.149] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: GLgele lost connection: 连接中止
+[31一月2022 12:37:53.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GLgele退出了游戏
+[31一月2022 12:37:53.196] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[31一月2022 12:37:53.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31一月2022 12:37:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31一月2022 12:37:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31一月2022 12:37:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Greenfield v0.5.3'/minecraft:overworld
+[31一月2022 12:37:56.424] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Greenfield v0.5.3): All chunks are saved
+[31一月2022 12:37:56.491] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Greenfield v0.5.3): All chunks are saved
+[31一月2022 12:38:07.787] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
