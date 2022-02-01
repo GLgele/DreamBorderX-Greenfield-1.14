@@ -1,179 +1,33 @@
-[2022-01-31 14:34:11] [Render thread INFO] CustomSkinLoader 14.13-SNAPSHOT-313
-[2022-01-31 14:34:11] [Render thread INFO] DataDir: D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\versions\1.16.5\CustomSkinLoader
-[2022-01-31 14:34:11] [Render thread INFO] Operating System: Windows 10 (amd64) version 10.0
-[2022-01-31 14:34:11] [Render thread INFO] Java Version: 1.8.0_311, Oracle Corporation
-[2022-01-31 14:34:11] [Render thread INFO] Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-[2022-01-31 14:34:11] [Render thread INFO] Minecraft: 1.16.5(1.16.5)
-[2022-01-31 14:34:11] [Render thread INFO] Config File: D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greedfield-1.14\.minecraft\versions\1.16.5\CustomSkinLoader\CustomSkinLoader.json
-[2022-01-31 14:34:11] [Render thread INFO] Try to load config.
-[2022-01-31 14:34:11] [Render thread INFO] Successfully load config.
-[2022-01-31 14:34:11] [Render thread INFO] Add a profile loader: MojangAPI
-[2022-01-31 14:34:11] [Render thread INFO] Add a profile loader: Legacy
-[2022-01-31 14:34:11] [Render thread INFO] Add a profile loader: CustomSkinAPI
-[2022-01-31 14:34:11] [Render thread INFO] Add a profile loader: CustomSKinAPIPlus
-[2022-01-31 14:34:11] [Render thread INFO] Add a profile loader: UniSkinAPI
-[2022-01-31 14:34:11] [Render thread INFO] Add a profile loader: ElyByAPI
-[2022-01-31 14:34:11] [Render thread INFO] Add a profile loader: GlitchlessAPI
-[2022-01-31 14:34:11] [Render thread INFO] Successfully update config.
-[2022-01-31 14:34:11] [Render thread INFO] version : 14.13
-[2022-01-31 14:34:11] [Render thread INFO] buildNumber : 313
-[2022-01-31 14:34:11] [Render thread INFO] loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littlesk.in/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "http://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }]
-[2022-01-31 14:34:11] [Render thread INFO] enableDynamicSkull : true
-[2022-01-31 14:34:11] [Render thread INFO] enableTransparentSkin : true
-[2022-01-31 14:34:11] [Render thread INFO] forceIgnoreHttpsCertificate : false
-[2022-01-31 14:34:11] [Render thread INFO] forceLoadAllTextures : false
-[2022-01-31 14:34:11] [Render thread INFO] enableCape : true
-[2022-01-31 14:34:11] [Render thread INFO] forceFillSkullNBT : false
-[2022-01-31 14:34:11] [Render thread INFO] threadPoolSize : 3
-[2022-01-31 14:34:11] [Render thread INFO] retryTime : 1
-[2022-01-31 14:34:11] [Render thread INFO] cacheExpiry : 30
-[2022-01-31 14:34:11] [Render thread INFO] forceUpdateSkull : false
-[2022-01-31 14:34:11] [Render thread INFO] enableLocalProfileCache : false
-[2022-01-31 14:34:11] [Render thread INFO] enableCacheAutoClean : false
-[2022-01-31 14:34:11] [Render thread INFO] forceDisableCache : false
-[2022-01-31 14:35:27] [GLgele's skull INFO] Loading GLgele's profile.
-[2022-01-31 14:35:27] [GLgele's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:35:27] [GLgele's skull INFO] Default profile will be used.
-[2022-01-31 14:35:27] [GLgele's skull INFO] GLgele's profile loaded.
-[2022-01-31 14:35:27] [GLgele's skull INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1643610957)
-[2022-01-31 14:35:30] [Dyslexia_'s skull INFO] Loading Dyslexia_'s profile.
-[2022-01-31 14:35:30] [Dyslexia_'s skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:35:31] [Dyslexia_'s skull INFO] Default profile will be used.
-[2022-01-31 14:35:31] [Dyslexia_'s skull INFO] Dyslexia_'s profile loaded.
-[2022-01-31 14:35:31] [Dyslexia_'s skull INFO] (SkinUrl: http://textures.minecraft.net/texture/2dd4098a60bfc39559ac61bc19f7749700ef777aacfe2615846dff5c8ebac510 , Model: default , CapeUrl: null  , Expiry: 1643610961)
-[2022-01-31 14:35:31] [Render thread INFO] ThreadDownloadImageData Class: net.minecraft.client.renderer.texture.DownloadingTexture
-[2022-01-31 14:35:33] [Alistor's skull INFO] Loading Alistor's profile.
-[2022-01-31 14:35:33] [Alistor's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:35:33] [Alistor's skull INFO] Default profile will be used.
-[2022-01-31 14:35:33] [Alistor's skull INFO] Alistor's profile loaded.
-[2022-01-31 14:35:33] [Alistor's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/15c292a24f54a7a43785266552dba7a184f9c50e0d94b337d8d3e76e9e9cce7 , Model: default , CapeUrl: null  , Expiry: 1643610963)
-[2022-01-31 14:35:37] [JacobKazias's skull INFO] Loading JacobKazias's profile.
-[2022-01-31 14:35:37] [JacobKazias's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:35:37] [JacobKazias's skull INFO] Default profile will be used.
-[2022-01-31 14:35:37] [JacobKazias's skull INFO] JacobKazias's profile loaded.
-[2022-01-31 14:35:37] [JacobKazias's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/177da46895b468660c65db840ebd43680aec9aef6f51e5e389ae5113618b82e7 , Model: default , CapeUrl: null  , Expiry: 1643610967)
-[2022-01-31 14:35:37] [THEJESTR11's skull INFO] Loading THEJESTR11's profile.
-[2022-01-31 14:35:37] [THEJESTR11's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:35:37] [THEJESTR11's skull INFO] Default profile will be used.
-[2022-01-31 14:35:37] [THEJESTR11's skull INFO] THEJESTR11's profile loaded.
-[2022-01-31 14:35:37] [THEJESTR11's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/6338ca1b63486335fa40fb81d28c0a2619b93613928f5f3ddab0cc6bc2332ed0 , Model: default , CapeUrl: null  , Expiry: 1643610967)
-[2022-01-31 14:35:37] [Aa60665's skull INFO] Loading Aa60665's profile.
-[2022-01-31 14:35:37] [Aa60665's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:35:37] [Aa60665's skull INFO] Default profile will be used.
-[2022-01-31 14:35:37] [Aa60665's skull INFO] Aa60665's profile loaded.
-[2022-01-31 14:35:37] [Aa60665's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/d8c62c93ff4a9d55ae488dd8da076685f1510198cc3448f2e8f64be7452f22c6 , Model: default , CapeUrl: null  , Expiry: 1643610967)
-[2022-01-31 14:35:37] [Laserpanda's skull INFO] Loading Laserpanda's profile.
-[2022-01-31 14:35:37] [Monitor's skull INFO] Loading Monitor's profile.
-[2022-01-31 14:35:37] [Laserpanda's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:35:37] [Monitor's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:35:37] [Laserpanda's skull INFO] Default profile will be used.
-[2022-01-31 14:35:37] [Laserpanda's skull INFO] Laserpanda's profile loaded.
-[2022-01-31 14:35:37] [Monitor's skull INFO] Default profile will be used.
-[2022-01-31 14:35:37] [Laserpanda's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/186f72c16b1e9fe6e099e76b5f7a884fb782cfcc588c95c4e383dc527d1b84 , Model: default , CapeUrl: null  , Expiry: 1643610967)
-[2022-01-31 14:35:37] [Monitor's skull INFO] Monitor's profile loaded.
-[2022-01-31 14:35:37] [Monitor's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/b33bf8c282c02dfa8c30e27cbbb0d962e77943267d9a017dc705a4c1fe95c , Model: default , CapeUrl: null  , Expiry: 1643610967)
-[2022-01-31 14:35:37] [Mapparere's skull INFO] Loading Mapparere's profile.
-[2022-01-31 14:35:37] [Mapparere's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:35:37] [Mapparere's skull INFO] Default profile will be used.
-[2022-01-31 14:35:37] [Olaf_C's skull INFO] Loading Olaf_C's profile.
-[2022-01-31 14:35:37] [Mapparere's skull INFO] Mapparere's profile loaded.
-[2022-01-31 14:35:37] [Mapparere's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/2e2cc42015e6678f8fd49ccc01fbf787f1ba2c32bcf559a015332fc5db50 , Model: default , CapeUrl: null  , Expiry: 1643610967)
-[2022-01-31 14:35:37] [Olaf_C's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:35:37] [Olaf_C's skull INFO] Default profile will be used.
-[2022-01-31 14:35:37] [Olaf_C's skull INFO] Olaf_C's profile loaded.
-[2022-01-31 14:35:37] [Olaf_C's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/a82dc4c46d350d42d7372a2a118b9a6421f7eb2a38be3af6a7759259f6a17 , Model: default , CapeUrl: null  , Expiry: 1643610967)
-[2022-01-31 14:39:10] [Bluecolty's skull INFO] Loading Bluecolty's profile.
-[2022-01-31 14:39:10] [Bluecolty's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:10] [Bluecolty's skull INFO] Default profile will be used.
-[2022-01-31 14:39:10] [Bluecolty's skull INFO] Bluecolty's profile loaded.
-[2022-01-31 14:39:10] [Bluecolty's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/bc568b4c76ad5314f4138c33bd150278421280e978149b3c28998a019b1cb367 , Model: default , CapeUrl: null  , Expiry: 1643611180)
-[2022-01-31 14:39:10] [Metroidling's skull INFO] Loading Metroidling's profile.
-[2022-01-31 14:39:10] [Metroidling's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:10] [Metroidling's skull INFO] Default profile will be used.
-[2022-01-31 14:39:10] [Metroidling's skull INFO] Metroidling's profile loaded.
-[2022-01-31 14:39:10] [Metroidling's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/b881d97413e2f6e50a6a581efa98cc576da8537a7250ff999633a6c3d , Model: default , CapeUrl: null  , Expiry: 1643611180)
-[2022-01-31 14:39:10] [Danes_'s skull INFO] Loading Danes_'s profile.
-[2022-01-31 14:39:10] [Danes_'s skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:10] [Danes_'s skull INFO] Default profile will be used.
-[2022-01-31 14:39:10] [Danes_'s skull INFO] Danes_'s profile loaded.
-[2022-01-31 14:39:10] [Danes_'s skull INFO] (SkinUrl: http://textures.minecraft.net/texture/2563d59bdf249405fcba68076a1dc4b9cc9dd9a80a1d3484472f2e10b694c42e , Model: default , CapeUrl: null  , Expiry: 1643611180)
-[2022-01-31 14:39:10] [Staples_'s skull INFO] Loading Staples_'s profile.
-[2022-01-31 14:39:10] [Staples_'s skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:10] [Staples_'s skull INFO] Default profile will be used.
-[2022-01-31 14:39:10] [Staples_'s skull INFO] Staples_'s profile loaded.
-[2022-01-31 14:39:10] [Staples_'s skull INFO] (SkinUrl: http://textures.minecraft.net/texture/86894c2cf8763733325f9bbdc6cd9c5433920078ec9f96ee72fd03d0f61b3691 , Model: default , CapeUrl: null  , Expiry: 1643611180)
-[2022-01-31 14:39:16] [oliv111's skull INFO] Loading oliv111's profile.
-[2022-01-31 14:39:16] [oliv111's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [oliv111's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [oliv111's skull INFO] oliv111's profile loaded.
-[2022-01-31 14:39:16] [oliv111's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/2f8ebcf2312c3d853b1bc456dceda86d9d2df56c2e23f1add0893a35b82907a9 , Model: default , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [NJDaeger's skull INFO] Loading NJDaeger's profile.
-[2022-01-31 14:39:16] [NJDaeger's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [NJDaeger's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [NJDaeger's skull INFO] NJDaeger's profile loaded.
-[2022-01-31 14:39:16] [NJDaeger's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/377d0f875898faa8b562f89938c26c1467a48d770322c7e0546adfa0ff765278 , Model: default , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [56515's skull INFO] Loading 56515's profile.
-[2022-01-31 14:39:16] [56515's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [56515's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [56515's skull INFO] 56515's profile loaded.
-[2022-01-31 14:39:16] [56515's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/bef30627b2b6f7e7b6636d188e23237979847728eb97c272df66389f9b7cc9be , Model: default , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [carrotnose258's skull INFO] Loading carrotnose258's profile.
-[2022-01-31 14:39:16] [carrotnose258's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [carrotnose258's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [carrotnose258's skull INFO] carrotnose258's profile loaded.
-[2022-01-31 14:39:16] [carrotnose258's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/dc4385ee7333f2b8f8e5a9b8963fb32c3eefb757db3c57624cbcee6fdd472177 , Model: default , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [Nsims265's skull INFO] Loading Nsims265's profile.
-[2022-01-31 14:39:16] [Mikkis_'s skull INFO] Loading Mikkis_'s profile.
-[2022-01-31 14:39:16] [Mikkis_'s skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [Nsims265's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [Nsims265's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [Mikkis_'s skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [Nsims265's skull INFO] Nsims265's profile loaded.
-[2022-01-31 14:39:16] [Mikkis_'s skull INFO] Mikkis_'s profile loaded.
-[2022-01-31 14:39:16] [Mikkis_'s skull INFO] (SkinUrl: http://textures.minecraft.net/texture/f1628060b678fb1c177e7d9740ff29f38335e91961c90d64686cf66b4ea4396b , Model: slim , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [Nsims265's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/3ae62479b487277d4498c27d67622de769416b10bb4bdce816023c0fa92a5798 , Model: default , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [tomitime1's skull INFO] Loading tomitime1's profile.
-[2022-01-31 14:39:16] [tomitime1's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [thicc_as_fricc's skull INFO] Loading thicc_as_fricc's profile.
-[2022-01-31 14:39:16] [thicc_as_fricc's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [tomitime1's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [tomitime1's skull INFO] tomitime1's profile loaded.
-[2022-01-31 14:39:16] [tomitime1's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/3fecb136c1389f99136056e93bd07c4ffb3b4816fc02318671f5578dedeff85d , Model: default , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [thicc_as_fricc's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [thicc_as_fricc's skull INFO] thicc_as_fricc's profile loaded.
-[2022-01-31 14:39:16] [thicc_as_fricc's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/8104c4be30902478c8ad8d4023975bef1147ff1d3038c2bcfef6907886dd1eff , Model: default , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [seehuus's skull INFO] Loading seehuus's profile.
-[2022-01-31 14:39:16] [seehuus's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [thomasenrosa's skull INFO] Loading thomasenrosa's profile.
-[2022-01-31 14:39:16] [thomasenrosa's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [seehuus's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [seehuus's skull INFO] seehuus's profile loaded.
-[2022-01-31 14:39:16] [thomasenrosa's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [seehuus's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/f29080c3c952bc69036792b690ec343b478d038e1faf294be50bf4aea382fb7b , Model: default , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [thomasenrosa's skull INFO] thomasenrosa's profile loaded.
-[2022-01-31 14:39:16] [thomasenrosa's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/12eb3b27ee7ad5e9cd3b068a15bcab7600fa940f5cab5fc5f734b48249ad80c4 , Model: default , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [Mech265's skull INFO] Loading Mech265's profile.
-[2022-01-31 14:39:16] [carrotnose258's skull INFO] Loading carrotnose258's profile.
-[2022-01-31 14:39:16] [Mech265's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [carrotnose258's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:16] [carrotnose258's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [carrotnose258's skull INFO] carrotnose258's profile loaded.
-[2022-01-31 14:39:16] [carrotnose258's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/dc4385ee7333f2b8f8e5a9b8963fb32c3eefb757db3c57624cbcee6fdd472177 , Model: default , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:16] [Mech265's skull INFO] Default profile will be used.
-[2022-01-31 14:39:16] [Mech265's skull INFO] Mech265's profile loaded.
-[2022-01-31 14:39:16] [Mech265's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/1dbc1c26a33944ec0e3d1e622da32e2c4939f64627353636d295547300a69165 , Model: slim , CapeUrl: null  , Expiry: 1643611186)
-[2022-01-31 14:39:19] [Laserpanda's skull INFO] Loading Laserpanda's profile.
-[2022-01-31 14:39:19] [Laserpanda's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:19] [Laserpanda's skull INFO] Default profile will be used.
-[2022-01-31 14:39:19] [Laserpanda's skull INFO] Laserpanda's profile loaded.
-[2022-01-31 14:39:19] [Laserpanda's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/186f72c16b1e9fe6e099e76b5f7a884fb782cfcc588c95c4e383dc527d1b84 , Model: default , CapeUrl: null  , Expiry: 1643611189)
-[2022-01-31 14:39:22] [SilverSpace123's skull INFO] Loading SilverSpace123's profile.
-[2022-01-31 14:39:22] [SilverSpace123's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:22] [SilverSpace123's skull INFO] Default profile will be used.
-[2022-01-31 14:39:22] [SilverSpace123's skull INFO] SilverSpace123's profile loaded.
-[2022-01-31 14:39:22] [SilverSpace123's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/1b3f7877790b822003904fc8827a047639d3c8e95c2716db5e0c02dad06f26dc , Model: default , CapeUrl: null  , Expiry: 1643611192)
-[2022-01-31 14:39:23] [KopperKangaroo's skull INFO] Loading KopperKangaroo's profile.
-[2022-01-31 14:39:23] [KopperKangaroo's skull INFO] 1/8 Try to load profile from 'Mojang'.
-[2022-01-31 14:39:23] [KopperKangaroo's skull INFO] Default profile will be used.
-[2022-01-31 14:39:23] [KopperKangaroo's skull INFO] KopperKangaroo's profile loaded.
-[2022-01-31 14:39:23] [KopperKangaroo's skull INFO] (SkinUrl: http://textures.minecraft.net/texture/cd951a666b3aaeebb885df1d0229da8a46bc1685cf90076de15a7c22b56321bd , Model: default , CapeUrl: null  , Expiry: 1643611193)
+[2022-02-01 11:53:57] [Render thread INFO] CustomSkinLoader 14.13-SNAPSHOT-313
+[2022-02-01 11:53:57] [Render thread INFO] DataDir: D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greenfield-1.14\.minecraft\versions\1.16.5\CustomSkinLoader
+[2022-02-01 11:53:57] [Render thread INFO] Operating System: Windows 10 (amd64) version 10.0
+[2022-02-01 11:53:57] [Render thread INFO] Java Version: 1.8.0_311, Oracle Corporation
+[2022-02-01 11:53:57] [Render thread INFO] Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[2022-02-01 11:53:57] [Render thread INFO] Minecraft: 1.16.5(1.16.5)
+[2022-02-01 11:53:57] [Render thread INFO] Config File: D:\Users\Administrator\Documents\GitHub\DreamBorderX-Greenfield-1.14\.minecraft\versions\1.16.5\CustomSkinLoader\CustomSkinLoader.json
+[2022-02-01 11:53:57] [Render thread INFO] Try to load config.
+[2022-02-01 11:53:57] [Render thread INFO] Successfully load config.
+[2022-02-01 11:53:57] [Render thread INFO] Add a profile loader: MojangAPI
+[2022-02-01 11:53:57] [Render thread INFO] Add a profile loader: Legacy
+[2022-02-01 11:53:57] [Render thread INFO] Add a profile loader: CustomSkinAPI
+[2022-02-01 11:53:57] [Render thread INFO] Add a profile loader: CustomSKinAPIPlus
+[2022-02-01 11:53:57] [Render thread INFO] Add a profile loader: UniSkinAPI
+[2022-02-01 11:53:57] [Render thread INFO] Add a profile loader: ElyByAPI
+[2022-02-01 11:53:57] [Render thread INFO] Add a profile loader: GlitchlessAPI
+[2022-02-01 11:53:57] [Render thread INFO] Successfully update config.
+[2022-02-01 11:53:57] [Render thread INFO] version : 14.13
+[2022-02-01 11:53:57] [Render thread INFO] buildNumber : 313
+[2022-02-01 11:53:57] [Render thread INFO] loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littlesk.in/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "http://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }]
+[2022-02-01 11:53:57] [Render thread INFO] enableDynamicSkull : true
+[2022-02-01 11:53:57] [Render thread INFO] enableTransparentSkin : true
+[2022-02-01 11:53:57] [Render thread INFO] forceIgnoreHttpsCertificate : false
+[2022-02-01 11:53:57] [Render thread INFO] forceLoadAllTextures : false
+[2022-02-01 11:53:57] [Render thread INFO] enableCape : true
+[2022-02-01 11:53:57] [Render thread INFO] forceFillSkullNBT : false
+[2022-02-01 11:53:57] [Render thread INFO] threadPoolSize : 3
+[2022-02-01 11:53:57] [Render thread INFO] retryTime : 1
+[2022-02-01 11:53:57] [Render thread INFO] cacheExpiry : 30
+[2022-02-01 11:53:57] [Render thread INFO] forceUpdateSkull : false
+[2022-02-01 11:53:57] [Render thread INFO] enableLocalProfileCache : false
+[2022-02-01 11:53:57] [Render thread INFO] enableCacheAutoClean : false
+[2022-02-01 11:53:57] [Render thread INFO] forceDisableCache : false
